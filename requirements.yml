@@ -1,0 +1,17 @@
+name: AD_450_final
+channels:
+  - conda-forge
+dependencies:
+  - flake8
+  - jupyter
+  - jupyterlab
+  - ipython
+  - pip
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - pip:
+      - black
+      - nbqa
+      - spotipy

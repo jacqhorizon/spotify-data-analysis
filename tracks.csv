@@ -1,0 +1,501 @@
+added_at,track_id,track_name,artist_id,artist_name,duration,explicit,popularity,album_type,album_id,album_name,album_release_date
+2025-03-04T23:34:01Z,6ZRxnIHvjN0qTVRwz3PLtO,Smells Blood,4L0gz16xuM1as1OgYzh1SR,Kensuke Ushio,109280,False,56,album,05xPgo0O1tujgg6eDzIfxV,DEVILMAN crybaby (Original Soundtrack),2018-01-10
+2025-03-04T18:52:29Z,4rk94uEZLJftdhnjp4Hwsx,Conflict,1ldNdtZX38LAsOk0ciLvb2,F.O.O.L,187527,False,32,single,6z5absG3SjLYPN8AhVcO0e,Revenger,2020-04-06
+2025-03-04T18:47:34Z,0Obvb0dyqdOPyjWJJKMniU,Window Shop,7fVp0A6oCMfiQJihMnY0SZ,KNOWER,175208,False,29,album,7o5y1ttfkpL6zf6P2uCYPQ,Louis Cole and Genevieve Artadi,2010-10-01
+2025-03-04T18:01:50Z,4MqJUXLycUCczH67JE06TA,Selecta 40',7wXSDFysHTrrNetXFfvTsF,NØKK,229714,False,8,single,3g3pfrt11jiC09HSLZKLBK,Selecta 40',2024-05-17
+2025-03-03T17:04:51Z,1zhvxTuSha22nsUT5Nw8gE,15 Minutes,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,191519,True,79,album,3WzBIQmn2hrulLeTY9smkk,Short n' Sweet (Deluxe),2025-02-14
+2025-03-01T06:01:33Z,5GGA54O0NQK6Bo7nI0cz5k,SUPERSCAR,2qanRMyA5bNuTvz1dK45OP,ADÉLA,194040,False,59,single,2pElP8JopnqWCAEujfbhBL,SUPERSCAR,2024-10-25
+2025-02-27T18:40:06Z,67hUUu8V72iqADfmWrXC2w,PLAYBOi,6o2D1YBpFJDDaMwZYGyW3T,Vana,133779,True,42,single,5FvgyNA2Bt91tlRCrX7UvI,PLAYBOi,2024-06-07
+2025-02-16T20:29:35Z,3EgRznELSayrCj19aGYRic,Woah!! (feat. kets4eki),0hrMKLqgNEIemiF4Ag8dTI,Sophie Powers,177000,False,34,single,0vCm9yXPMOX7BpLtuB0YjC,Woah!! (feat. kets4eki),2024-05-10
+2025-02-16T20:28:30Z,79wHNI2r74FIjnSsFh03uR,HA-HA!,75eUSWg8Tt9PZLiFWjascC,FORGOTTENAGE,120952,False,55,single,7BIfQFbE5RqMZlmh1An5tu,HA-HA!,2024-02-16
+2025-02-16T20:23:38Z,6rm58LPjSArdS4zEHSKXDu,KAMI,3BxW2wyYPKUAlvmbOWxiDe,DR MØB,87679,True,55,single,2nOfcdpOxzJpXKe1YzEQL6,KAMI,2023-05-11
+2025-02-16T20:17:10Z,0diD9SEK0oNBOx0p0QGvAB,GOT UR NUMB3R (v2),5lvB2ZiSrNidq4GaFrWHK2,bugcried,153018,False,53,single,5hp7VuRsLWYDuhYpT2cLvR,GOT UR NUMB3R (v2),2021-08-20
+2025-02-16T19:22:17Z,6dRl26fre0x2OcUCtObfmP,SHELL ( OF A MAN ),4EnymklUyqZwvmHQGlRssl,Saya Gray,219294,False,46,single,7LDJQ920ux5U1bOZvexKX3,SHELL ( OF A MAN ),2024-10-10
+2025-02-16T19:18:37Z,3rUGC1vUpkDG9CZFHMur1t,greedy,45dkTj5sMRSjrmBSBeiHym,Tate McRae,131872,True,81,single,3UOV8XvCwMKaATRNXrYCjN,greedy,2023-09-15
+2025-02-16T19:15:58Z,2zOmS55knKWSgScYPTNmGQ,Sports car,45dkTj5sMRSjrmBSBeiHym,Tate McRae,165045,False,84,single,1fOTqAU8mRMHlmOaHMqsge,Sports car,2025-01-24
+2025-02-16T19:15:06Z,5ZLUm9eab8y3tqQ1OhQSHI,Abracadabra,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,223398,False,89,single,2I6LyArz82waG94e9V5B9d,Abracadabra,2025-02-03
+2025-02-16T19:11:58Z,0nj9Bq5sHDiTxSHunhgkFb,squabble up,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,157992,True,87,album,0hvT3yIEysuuvkK73vgdcW,GNX,2024-11-22
+2025-02-12T22:48:49Z,0ObxUGg2TbHVhy0EegzDfv,"Symphony No. 4 in A Major, Op. 90, MWV N16 ""Italian"": I. Allegro vivace",6MF58APd3YV72Ln2eVg710,Felix Mendelssohn,627000,False,25,album,3j6WUDThx2oosV3K4Q4reO,"Mendelssohn: Symphonies Nos.4 ""Italian"" & 5 ""Reformation""",1985-01-01
+2025-02-12T22:47:08Z,5Ol9H0rZipMg06dvYL4qmi,Flirt Flirt Oh It Hurts,1fILrc9B34DjHxSMkJmyBN,Bossfight,211428,False,33,album,48WD8UrcE1utp3AB6xAQgW,"Caps On, Hats Off",2012-09-09
+2025-02-11T19:33:29Z,7hZzYDdZyzzefi1mBjGAtQ,High Status Prisoner,3r5rHoyzqZHGJkU8fGZtNO,Tonebox,221234,False,23,single,4Q8fOY1tnwNLcb11aI9Bou,High Status Prisoner,2021-04-14
+2025-02-10T19:22:51Z,6D60317nb2tnPetD4UHhgx,Destruction Age,0zilOJ2Ze0FLrQ76cZQaoc,akiaura,187205,False,49,album,2HyBUOxPZdDFJg6hiowyUG,Destruction Age,2024-06-14
+2025-02-09T18:02:30Z,0YPy0ANcvTy5TrlWb6gJzJ,BE YOUR GHOST (feat. Roniit),74RET4rCZPTGzhsLjD0i3g,ATLiens,200000,False,35,album,7tJEB5mI2gBZXQ44w3TbYY,LEAVING THE WORLD BEHIND,2024-10-11
+2025-02-09T02:00:00Z,5zsrV7RQ54Mh1WuFGnEy6V,Chill,1PbO7aQiVeKbGp8GYWDL9C,Levity,188780,True,44,album,1Fx4mMhHAx9ZeLs3xGOIwY,Escapism Vol. 1,2024-09-25
+2025-02-08T23:12:19Z,3bFC4mJkgF9HvTU1mncW7x,My Kink Is Karma,7GlBOeep6PqTfFi59PTUUN,Chappell Roan,222578,False,71,album,0XKconI47eiBP6qPYHsx9f,The Rise and Fall of a Midwest Princess,2023-09-21
+2025-02-08T23:12:14Z,70nmpLYSyZ58QTUzUiB1VA,symptom of life,3rWZHrfrsPBxVy692yAIxF,WILLOW,189586,False,53,album,5jsfwcWxZIPtF5aaWx0mlL,empathogen,2024-05-03
+2025-02-08T21:07:14Z,3inJpqn2ZLKruu1vlxnJT9,Hurts2Know,79W7uIUU51RwgRFeYeRrP6,Cynthoni,297931,False,28,single,5ecy4dizEcyGzsQs1IUAyJ,SMOKE IT TO THE BUTT,2024-10-04
+2025-02-08T20:52:51Z,0uexL7i4q3MizOt85n56xU,what the fuck,2BOw2Ooy4maMEzNg1LR0HJ,marshall4,108631,True,26,compilation,6EgL7k5gQ8hKzdNNvMpTar,goombacore: greatest hits (volumes 1-4),2022-06-03
+2025-02-08T19:56:55Z,4FVxIxg0MFY4cgR15fKkpp,insane anime obsessed boyfriend,10zsHcOcO047KmhOhi57iL,xaev,134035,True,24,album,2IF4j6dlGv5VlboE0tXiD1,berdlycore chapter 3,2023-02-24
+2025-02-08T19:47:59Z,1wGYfBHPxx8OBaikDrjp9g,"dismantle your MIND, BODY and SOUL...",7pI4Zmuib20gknwwWNqPpJ,gingus,304874,True,16,single,6nUD47692Zl30WghYOzS7R,"dismantle your MIND, BODY and SOUL...",2023-12-03
+2025-02-08T19:28:31Z,0qgNF6CSROn6mrJxBYIScd,...see you to_no_more,1II1ZcUUupq7JwF8eb1pxx,Eslxst,308688,False,33,single,4cy4wLG7KtZQ9BWa0Rog53,...see you to_no_more,2023-12-21
+2025-02-06T22:06:52Z,2IxBHuN6FFwcB3qm9R6ELJ,Endless Fun,4SZyEkBv1Ci5UTnHsnMQ8J,Hernán Marandino,121599,False,21,album,2iW42c5cCgOHFHZu7fAsPG,Forager (Original Game Soundtrack),2019-04-18
+2025-02-06T19:44:08Z,0FOOCagwIFa58SOekbmVzj,next to me,5c3akKV3CUqAVOnGZqf4S3,BARELY ALIVE,113142,False,35,single,4hR2oacIqkUxpe2sU79kTt,next to me,2025-01-24
+2025-02-05T22:08:11Z,3mr6alBLy10Cn2VyaSr1Zg,Turning Point,6L8TOjkFGmgvvBxILquVmq,Marzuku,389250,False,34,album,2nQKFN3hEjEXgADaTpt4vb,Fraudulence Custom Campaign Vol. 1 (Original Soundtrack),2024-04-19
+2025-02-05T21:45:30Z,3R4BtnIz9Xov5KJL2Yz7N2,No One's Around to Help,1L71IaJOJbqqbpyAXjCtM8,shygalaxyy,162218,False,34,single,3pjNuRnnYgUAKMGM8qxleo,No One's Around to Help,2024-01-22
+2025-02-05T19:35:43Z,3XlTRCp8hc7U8AEeMy996i,Surface,5JD5mJBIRz9pisqHn7SM7W,Kotek,393600,False,21,single,12QwAZ8d7QnpFIxgraTtTh,Surface,2017-09-29
+2025-02-03T19:50:38Z,6zBFQ5dWHEmEx2RDoZ1ZP2,Dominate,37PZXblQTqpEWGdjctNcGP,Space Laces,234375,False,39,single,3Ger0zMysHrdm6H15k1n3D,Dominate,2021-03-26
+2025-02-03T05:36:14Z,4KocH2lyGz0WagmWDBzc2f,Melancholy,4aKdmOXdUKX07HVd3sGgzw,Rezz,215980,False,27,single,4k96HudMxE3fwSakf10kRC,Something Wrong Here,2016-10-07
+2025-02-03T05:19:18Z,0WW8gTjIQdynk5r0hlv2xf,Fool,0Hh9X3QxTHPE2dlAS1g8IN,Rome in Silver,230400,False,27,single,55zdsKv2hRGb8qWyJ4NG8C,Fool,2019-04-12
+2025-02-03T05:05:51Z,15cRruaacYlZfimhJvxGuw,Go My Way,7ERTOmWXRyme5WJUpXVVSl,Oski,233600,False,36,single,2Etm7wn37DYMZ7fNa1oFog,Kid Calamity,2017-05-26
+2025-02-02T20:55:16Z,6v6dxApxjDlhLjDWnVFh3V,Weeble Wobble,6hBrJJrcYoNhvLC6KaFR4b,Eliminate,190486,False,25,single,4Fk0pOij4YvyCm90N9Aatu,Cyber Whale EP,2019-03-13
+2025-02-02T17:49:37Z,0lux8o5Ms3l32VPRxnyePl,Interdimensional,5o2KBzYUFierWmBhSemAhq,Ace Aura,207939,False,15,single,0gSUt0s1PzoFvT6RFkd5JE,Interdimensional,2019-07-31
+2025-02-01T22:01:35Z,0Xw81yDxdt3FasZVNBRzt0,alone,75kwloC4KEqX7xt7UtH80A,Tdstr,90223,True,12,album,0hRi0dnmxYOWW1GIr9hqan,internet brainrot,2022-04-07
+2025-02-01T21:40:23Z,3K8yH0Plhjll4THNGpOA5f,Hellrunner,62JS3xgd6kKS7OjzHNSFv1,NANORAY,236984,True,22,album,2kowSCEZhZnup8Qd57WJQ7,Zapper,2021-03-22
+2025-02-01T19:08:51Z,59tFC2lYGsdwWOtPi1ZQ66,Jet Set Ratio,2CceCGQxwNsrvAClrB83ji,Een Glish,95864,False,42,single,5O3vsUhmHM4axYna80xpf3,Jet Set Ratio,2022-09-20
+2025-02-01T00:22:19Z,7bUXvMBQ5K1FHa3FHh4mEL,change your life,75VKfyoBlkmrJFDqo1o2VY,Fireboy DML,197760,False,45,album,0mxle2p72zngkE9p4KAE0A,adedamola,2024-08-28
+2025-01-30T23:38:46Z,2kO0AAHz7hYN6taN6oUMwT,Arabian Knights,0qPGd8tOMHlFZt8EA1uLFY,RIOT,186400,False,18,single,1PicnlQtu8oliMzWJcQcZV,Arabian Knights,2022-06-17
+2025-01-30T20:17:53Z,7EZzLjvLJlAbOixtiExeE8,hold my hand,6mmSS7itNWKbapgG2eZbIg,Knock2,266246,False,45,album,0m7RPdwNo1gte0nUSwh2yv,nolimit,2025-01-17
+2025-01-29T22:06:58Z,6AaURLQME5eYPdZpA7coV5,Round Em,76ffLLty1y2p2eH4DylwIh,BUGCORE,154285,False,7,single,4Jd91ZtUVIMvH8xKEdKpme,Round Em,2024-08-30
+2025-01-29T21:57:28Z,17tXxbx8df7Tc5hZoqByDJ,DONKEY STOMP,76ffLLty1y2p2eH4DylwIh,BUGCORE,218163,True,16,single,4P1yfS7nMrZvPDQip0jrrK,DONKEY STOMP,2024-01-04
+2025-01-28T23:39:50Z,7CE2PpWjbV4kbzsvZErZbI,Real,0oW1MvkRqSSIUKuaYaMjCf,hypersexuality,95341,False,11,single,3pFGmky7PVw7HIKmaiqNsG,Real,2023-06-16
+2025-01-28T21:14:41Z,3VhqJTO039Ax3CB0PAMUzY,REDLIGHT,76ffLLty1y2p2eH4DylwIh,BUGCORE,165000,False,16,single,3SF2KpMbhaabIJqxIiK0rY,REDLIGHT,2024-04-20
+2025-01-28T21:13:17Z,2ID8yCtLNvmMIkX2QzNpsX,Dog Bus,72igsHCazmE9rlVm0c4I9d,Metaroom,256245,False,28,single,1Wj2Yno0jvE2SHcCNjser5,Dog Bus,2020-12-25
+2025-01-28T20:41:19Z,43lxcET8nwTapgyirn9JHw,Creepy Crawlers,76ffLLty1y2p2eH4DylwIh,BUGCORE,189473,True,24,single,5butLPxzIe19dO521WPxBj,Creepy Crawlers,2023-02-06
+2025-01-28T20:38:04Z,6jrgv5Bf5qqIODJ3HLL8GI,BUBBLE FUNK,3J4heSMiOqE9MpbyGTtNHA,FLOOR BABA,217810,False,4,album,3aIeGzmktFQgn7EJmW4hB2,NEON DEATH B-SIDES,2017-09-01
+2025-01-28T20:28:55Z,42h0gbGbgRnfki0JmH4WMy,Counting Stars - Strxwberry Footwork Mix,6ZwmyApIe9gFarOGcDhnd1,strxwberrymilk,171222,False,12,single,4ZXT0mOJ92C4k153l4YIYZ,The Strxwberry Vault,2023-08-07
+2025-01-26T00:35:37Z,1FC8XVf7JM1F6PFTbv26DR,"Sugar, We're Goin Down",3L7JnVovGbYSUmRyqhXMYO,Fairlane,209210,False,36,single,5TkZOiEJTzAmOOKLTG2nJG,"Sugar, We're Goin Down",2025-01-10
+2025-01-26T00:33:27Z,1JF6nJtgTXZdikqaPwJ709,At Night,47z7ZrgFoBvVpCnElCE3Zh,Yellow Claw,170142,False,44,single,7vhpasBFaY3kyEXeK05H07,At Night,2025-01-24
+2025-01-25T19:14:14Z,3x1iGueunU9526QwyRhUTU,炮烙の刑,2Pk3HjUb6vkyntnZuxr9Hp,OZIGIRI,194906,False,2,compilation,0tkYX4E6Y9BELsO90uvd7d,Digital Riot 2,2019-05-29
+2025-01-25T19:06:32Z,0Oh4uYouWpEadS3U4cHsLu,Little Queen,2Pk3HjUb6vkyntnZuxr9Hp,OZIGIRI,186586,False,3,album,0nFvCSo6cs7wUCwgDrhoaj,Wonderful Life,2022-10-30
+2025-01-25T18:58:27Z,3wCFIOHnGqQImtGqqx6htz,Orgasmic,23fg0cVv5NqtRXn8h9Z23f,SHARON.,346269,False,25,single,0KrOLggEHIBTzrj7lD3RgY,Orgasmic,2024-12-06
+2025-01-25T18:53:08Z,2z1XFKBAneZyaPQ0wH3iYt,go fuck urself,2eKOBeqPB9R7yrt5X7P8ZR,Pisca,82959,True,32,album,2axy3naZEUKASZvQL6OlMz,selected semi shitpost pisca tracks volume 2,2022-08-10
+2025-01-24T18:00:49Z,62pzSldZkFN21ClEPYJwmx,WHIRLWIND,3J4heSMiOqE9MpbyGTtNHA,FLOOR BABA,189584,False,20,album,3S64ZdqDFMAq4KoltiR1Sc,DIRT BIRD,2017-01-01
+2025-01-24T17:51:30Z,4nfqcXVM2ocR70qqDzjFeR,athoth a go go (FUCK),2eKOBeqPB9R7yrt5X7P8ZR,Pisca,164821,True,26,single,59GcnCYkNggvrO6yUsbwjP,athoth a go go (FUCK),2023-01-31
+2025-01-23T22:08:45Z,20Tn9RG5rocBTP6aLAD0E8,Bone Rhapsody,7Bx0qiG4t9Ewq8NyPDtxab,Michael Wyckoff,128165,False,25,album,0wZtgfjkIj7zoIlGm8Hikt,Bonetones (Original Game Soundtrack),2019-12-10
+2025-01-23T01:21:12Z,4i7dJYQ8cdUgOi6BD9wSB0,Necrokalashnikov Eyes,3KBqko94JaicLm8XlHo3my,NEUPINK,156942,False,21,album,1C9x3KjWrLndTQhAtimtTu,SEAWEED JESUS,2021-06-04
+2025-01-23T01:20:38Z,40cAlskZeH2C4PML2qj8vN,Slaagt,05tfXy5v0DpYvuy4Sot4Nu,Whourkr,169160,False,13,album,6jZdkH4NcRUFAup7ULLTpC,Concrete,2010-01-19
+2025-01-22T22:35:53Z,2xkomQ20bgIyw0d6ahwzNH,terraria jungle but its dnb (dsd. Remix),2B6z1EXe45dL53LoC9LDuP,Re-Logic,103041,False,23,single,0odq4dXMzwEt9DqqCGe4ns,terraria jungle but its dnb (dsd. Remix),2023-06-12
+2025-01-21T22:50:01Z,32fSZSbxeVoiZShMQKLc6Z,My Kink Is Karma,7GlBOeep6PqTfFi59PTUUN,Chappell Roan,222578,False,71,album,0EiI8ylL0FmWWpgHVTsZjZ,The Rise and Fall of a Midwest Princess,2023-09-22
+2025-01-21T22:49:51Z,3WSOUb3U7tqURbBSgZTrZX,Casual,7GlBOeep6PqTfFi59PTUUN,Chappell Roan,232796,True,79,album,0EiI8ylL0FmWWpgHVTsZjZ,The Rise and Fall of a Midwest Princess,2023-09-22
+2025-01-21T22:49:33Z,19KlZwqlT3fguP2BeHF1Q1,Disease,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,229997,False,80,single,52BWvTRMsPqjHzrbQomgwP,Disease,2024-10-25
+2025-01-21T22:49:28Z,1k2pQc5i348DCHwbn5KTdc,Pink Pony Club,7GlBOeep6PqTfFi59PTUUN,Chappell Roan,258034,False,83,album,0EiI8ylL0FmWWpgHVTsZjZ,The Rise and Fall of a Midwest Princess,2023-09-22
+2025-01-21T22:49:19Z,4LKYOetuIF5c9XjeLBL9av,Naked In Manhattan,7GlBOeep6PqTfFi59PTUUN,Chappell Roan,211057,True,73,album,0EiI8ylL0FmWWpgHVTsZjZ,The Rise and Fall of a Midwest Princess,2023-09-22
+2025-01-19T22:53:24Z,6aM2QiW50lrgJIf1I8hekG,"Theme of Onett (From ""Earthbound"")",21Tp0aROiJGTa0BgFGsC6v,The Versions,138206,False,31,album,1zLUPHmV5M1f91k0g2ERSi,"Earthbound, Vol. 1",2020-02-27
+2025-01-19T22:40:02Z,6NevFmReSPka5H0A41wzOp,The Show,7biIlpW0y5KqYIehTQz1wz,Waterflame,93692,False,38,album,7glcoxcNdYKy4gwqKeSe6S,Age of Flash,2022-08-26
+2025-01-19T20:49:59Z,2NVhZVESuSdh5UsXQNqUg1,Tropical Eden,2PNSIXAY9qm1ZmLedJ53xo,Simon Chylinski,102621,False,37,album,6ErjoGBl4xj1AfgPjcAYsk,Subnautica (Original Game Soundtrack),2018-02-01
+2025-01-17T16:01:34Z,0IVAYMUDvpzFxIEuGc71SM,P*RNSTAR,7pwufEBGfggjoI8twqlsmQ,Nessa Barrett,149440,True,77,album,6h9oVEkQTYEL3aoVAnfpub,AFTERCARE,2024-11-15
+2025-01-16T01:02:59Z,5POsS7dQujBBmX8ex27QT4,Nova,5jdbH48Rcr1jvVSVG0osQK,DNVR,111098,False,25,single,0So29QpVoe6uooU7Pbm28M,Nova,2024-06-28
+2025-01-16T00:08:36Z,4vk250sguUOlV3O6bPJix8,Steps On You (Peep My Style),6iPbI11utXY9CVhX6SPXEg,Nitepunk,176200,True,32,single,28MHnDXOPNYdf3tcuvJJqt,Steps On You (Peep My Style),2024-05-24
+2025-01-15T23:41:35Z,2xaaJcmvMOmpDbTwlWnjFh,Alter Ego (with JT),4E2rKHVDssGJm2SCDOMMJB,Doechii,204094,True,74,single,3CvGbx2f7ZMoUZLz8ZjOQd,Alter Ego (with JT),2024-03-29
+2025-01-14T20:47:46Z,2GihGwSW85GBl97zGspEo8,The Future,4RhG0qGKMzfWNdi4OM6obG,Yuni Wa,203835,False,19,album,2ULqSdsqj8aNXLpMKr6C9U,Ethereal Lover 2,2015-10-09
+2025-01-06T00:18:44Z,2bog3N7KbgQEC088RlMD0o,21 century funk - Instrumental,1iT6WBrzc3neL09G6tGtOp,CRXSHXL,71575,False,40,single,7upvw9tjMLuScPTfx9TGYU,21 century funk (Instrumental),2024-10-04
+2024-12-28T22:17:51Z,1yotBfu3yb63mZbDD2HUXu,BALANCE,24kY0bUku58QhWv5WFFXaf,REAPER,176551,False,35,album,1sD7lcyqCUGQfsyN6JWXlV,CHALLENGER,2024-03-08
+2024-12-19T18:41:04Z,4gxEY3Mh5FZZDAJAKPNrCS,CRAZY,4SpbR6yFEvexJuaBpgAU5p,LE SSERAFIM,164554,False,75,album,6kAsgfuulBOuyYLytWX7e2,CRAZY (Party Remixes 1),2024-09-02
+2024-12-17T19:25:29Z,4OnuNLwvIgroDdTXX2k5dF,Aether,1gEHdJ4DIEL2JuyRnNfMkt,Virtual Mage,206000,False,43,single,1wI6LtwwxH0RU5eX2agIxe,Aether,2020-08-21
+2024-12-15T21:32:37Z,72sLsJ5XELHGuV1J6ntJoZ,inhuman,4zVCMnjw54nkhGHU4e1Pav,ISOxo,198095,False,45,single,565EAf3SEil3VUEvBeqdvz,inhuman,2022-09-30
+2024-12-13T01:03:35Z,5xFgju1KjoNX3UACChHNJM,SURFACING,24kY0bUku58QhWv5WFFXaf,REAPER,226206,False,37,album,7G26mMpRGNpk0j8lpxXejl,CHALLENGER (DELUXE),2024-10-18
+2024-12-13T00:39:31Z,7jisVMhq5mkJsMxPBrtJJ4,Sharp Shooter,0qPGd8tOMHlFZt8EA1uLFY,RIOT,223448,False,31,single,1ON9fx7RWze7t6NQN7Gs80,IN CASE OF FIRE EP,2022-09-30
+2024-12-13T00:34:31Z,1L4XDcGo5USdbsVQKZBLVk,Spider (feat. Tida) - Control Freak Remix,6iPbI11utXY9CVhX6SPXEg,Nitepunk,193384,False,17,album,1rPava1UuxplN9eMVOyslw,HUMAN Deluxe,2023-10-06
+2024-12-12T21:27:10Z,0vfn9tIUUxJ696pHI4bYyt,Orbit - Thorne Remix,00CYRdkMnA0mwfy1VQPA7X,ellis,185602,False,16,single,0L5mglOJAcI3mMRDY31WUD,Orbit (The Remixes),2021-07-21
+2024-12-12T20:30:28Z,6PFbJ9LyhPo5gbTpc08XGP,my luv - bonus track,6mmSS7itNWKbapgG2eZbIg,Knock2,239047,False,39,single,0jl5eSEDiAIQBY3eeXnDIQ,2HEARTs dlux,2022-09-09
+2024-12-12T20:27:29Z,4Tfai66HFDfKbJiJwrEm4W,PAIN,0mmIPiJ8l2gAProE7THr37,ISOKNOCK,227571,False,35,album,5FsCLKDT9gEj9wZtO3ytXB,4EVR,2024-08-01
+2024-12-12T20:04:16Z,0NFmxRKCW4FoJkn70k54CE,come aliv3,5eIbEEQnDM8yuDVB0bimSP,RL Grime,207428,False,53,single,6NGo8P8BHmRUJY8uQufDgQ,come aliv3,2024-12-06
+2024-12-11T19:24:19Z,2lz3zjQ5QCVXiyOzIk02vW,Die For You,3wrFoI9EVjWg6m8xXeWr5t,VALORANT,212926,False,58,single,4O7Fn6jEB5xN1HXjMALCHp,Die For You,2021-11-22
+2024-12-10T22:54:28Z,7juaMHv1j8EAmEVEAlo1iT,Airhead,1DHMgO3IIYSYPJ6CFyDYnK,Honey Revenge,163519,False,56,album,1BOoOLLNUPLQNTuObi2PRh,Retrovision,2023-06-23
+2024-12-10T22:53:56Z,5dZzBFbEvmw0izCNoTXN52,Taste,3Pj6dfWTnH3sYHctX0EZMH,Daisy Grenade,145920,True,30,single,3eaXpVWBtUXL03TAvJETBX,Taste,2024-12-06
+2024-12-10T19:43:12Z,2RjmIhf8CPOAKNmCMXCYAu,Binary Data IX,2E8ZzNYVgy4aWkuo3CMxWC,Alfonso Peduto,171183,False,29,album,0CLyI8yoRegVfzebvqwHIn,"Binary Data, Vol. 2",2024-01-28
+2024-12-10T02:51:49Z,3mjieZNrw6iPjcMI9VuhAP,Shades,2FwJwEswyIUAljqgjNSHgP,Snakehips,151500,False,36,single,16vgihjplSgXYRfEYTHKCS,Shades,2024-09-27
+2024-12-08T19:24:51Z,58Rx25YLSzqsa35efwHJSn,Where,70qOCKE1NFO6q1a1pC0KRE,Capochino,164210,False,20,single,71xrRqEPI86Sp0YYc0EP76,Where,2022-08-19
+2024-12-08T19:16:48Z,6Ed6xr5SKUIHhS7ItWHVUN,NEMESIS,09C3CKFxKEw1n1Z7kvT3jb,Deathpact,149666,False,18,album,6bT6Jab0G44yTVuKSNthvc,FROM DARKNESS,2024-05-31
+2024-12-05T22:42:33Z,1Bh5kYJmqaMYOT13mhseqb,Out of Control,72igsHCazmE9rlVm0c4I9d,Metaroom,159116,False,24,single,25jI6JKpA19MlMrXjDZu9C,Sweet Genesis,2020-10-24
+2024-12-05T20:53:46Z,1eTaznNW4Xxtx9za2SMTXB,DENIAL IS A RIVER,4E2rKHVDssGJm2SCDOMMJB,Doechii,159586,True,88,album,60UzB8mOCMpc7xkuJE6Bwc,Alligator Bites Never Heal,2024-08-30
+2024-12-05T20:45:17Z,2AUS8MHYqxSR6dKjCcZIQ9,Direct Maniac,4zKHT6QwR4065YcVhy2WEA,B.Calloway,214240,False,16,single,5ueVtPvhKi5Gn2sjfS2lil,Direct Maniac/No Techno Like Mine,2003
+2024-12-04T17:37:38Z,40IkJqWi65fR7CoChDw0VF,Tiny tiny tiny,3NWKujJeRjMxBbdID2hDHw,Synthet,88615,False,18,album,5gNk0P38LuYoI1pcgY5aE8,Lilla drevet,2024-06-07
+2024-11-30T18:11:46Z,2I7DwCb6ODR0Fz52Ghi44i,\\\,1s7yEBXZWlCUwSQQ4Jljnc,c678924,93722,False,44,album,4y2XcnZ3qAFALFten4FD10,678924,2021-06-26
+2024-11-30T04:09:43Z,5cniTHYGeBuXknuFWd1vaM,Wherever,0wGf1OZAg2ihGB9BaFkqMn,CD Ghost,173788,False,23,single,6gHUztT28AF0xemuilC3Np,Dreams We Share,2020-11-20
+2024-11-30T03:43:02Z,634IBwtWmFmJCwVnFG8gzG,Noches,2lMbnMWwgAxvVHXVDlF3ZV,Prince Innocence,193250,False,37,single,08MGy8aiFy1Omd1UKoPvKy,Noches,2019-02-08
+2024-11-30T03:31:44Z,1zDPYoaXTejmNtSaOBbPOd,ATTACKING VERTICAL,53e9n1LucuH3guikmtv180,femtanyl,115000,True,51,single,0EuXXwAyrzBp9FFicvBfsp,REACTOR,2024-11-14
+2024-11-27T23:13:12Z,0miB2Y7zYt8DMx8biwooN2,lain,2nfx8RFGKqdv3gFCYrODVy,C4FF31N3,226234,False,41,single,46hmpGRHhtVWAlc5HmvfCC,lain,2020-05-22
+2024-11-27T23:02:16Z,3ucLzGWWkB2rMQXDJfCsfy,God Race (Temptation Stairway),72igsHCazmE9rlVm0c4I9d,Metaroom,157454,False,48,single,0N3ronQ8Uh7JX67FM2PPjo,God Race (Temptation Stairway),2021-02-16
+2024-11-27T22:59:55Z,4hJAHfT4Q92Bj93RlYtCou,IT'S TIME,53e9n1LucuH3guikmtv180,femtanyl,127346,True,49,single,0EuXXwAyrzBp9FFicvBfsp,REACTOR,2024-11-14
+2024-11-25T04:42:14Z,7iGhIVDnzm4NQMrVH32ocf,ANTONYMPH - 2009 N3WGR0UNDZ V3RS10N! >3<,1kM5BZXs7FFN8Dj1WpgH2j,Vylet Pony,192000,True,39,single,6lMw4ybX020rhzcYz544Vb,ANTONYMPH (Nightcore Edits),2021-06-10
+2024-11-24T00:36:08Z,1SoS1s9kjEZr5Kxn1CZqrZ,DEEGAFF,3J4heSMiOqE9MpbyGTtNHA,FLOOR BABA,111382,False,7,album,3xwBi3Tt9j1lq7Rtnsb2T3,BOMBS​-​BALL,2021-08-09
+2024-11-24T00:34:07Z,6Q2q5E7ZpT2lgoqEnUzzES,Phantasia 2000,7s9xvGsMjmPZmBYa6iEJTm,Nfract,161703,False,28,single,4qdj8PjhVUo1c0bEclDVYl,mass:/ps2/music/nightcore,2022-07-09
+2024-11-24T00:28:12Z,5tg01Jxz4ejJJO8HYfZT8m,please do not listen to this song,7xUEVAixJOG51xLGQvRCLH,AZALI,135083,False,43,single,4EAXB7iefXMySe7p9qiZxd,please do not listen to this song,2024-01-08
+2024-11-23T23:06:25Z,0JQkrkQIIoBYnEQ2lla9e0,love u!!,3zYU33YUxJPzsPrYmpMMiu,Aests,150004,False,34,single,1jNl2gbTUjvaBY8aQrWjhe,SUGAR RUSH,2021-07-15
+2024-11-23T21:42:52Z,54z3TiG9fwhHDlO3EMjxOh,heaven,6GVd3327JY65jGWX4X3wHS,gladde paling,81333,False,23,album,4Jx05pDxvtae0H5gDHGSBa,eurodance revolutie,2024-08-09
+2024-11-23T17:44:14Z,6WW1whDbHr7ugw2gv2hyQy,BING BONG!,79B3JMeI43ZRJeDvrCtf8d,SAYMYNITTI,207360,True,26,single,78dc43obh9rsxuWr8gQx1g,BING BONG!,2022-06-10
+2024-11-23T03:12:55Z,4xdBrk0nFZaP54vvZj0yx7,HOT TO GO!,7GlBOeep6PqTfFi59PTUUN,Chappell Roan,184841,False,79,album,0EiI8ylL0FmWWpgHVTsZjZ,The Rise and Fall of a Midwest Princess,2023-09-22
+2024-11-23T02:56:44Z,0WbMK4wrZ1wFSty9F7FCgu,"Good Luck, Babe!",7GlBOeep6PqTfFi59PTUUN,Chappell Roan,218423,False,89,single,1WAjjRMfZjEXtB0lQrAw6Q,"Good Luck, Babe!",2024-04-05
+2024-11-23T02:19:11Z,5zwwW9Oq7ubSxoCGyW1nbY,Pink Venom,41MozSoPIsD1dJM0CLPjZF,BLACKPINK,186964,False,66,album,0kbZ4ZNRs76sSFeGUEErFM,BORN PINK,2022-09-15
+2024-11-23T01:56:56Z,0znsc67nMhP4X9hjhvoyeP,Tick-Tack,36cgvBn0aadzOijnjjwqMN,ILLIT,129468,False,73,single,7CBwpeVQ27cWwyEYjByVH1,I'LL LIKE YOU,2024-10-21
+2024-11-23T01:09:59Z,0g0qfC3nAaIsfbxS29ksJx,Paint The Town Blue (from the series Arcane League of Legends),3PyJHH2wyfQK3WZrk9rpmP,Ashnikko,115533,False,65,single,1bnLKOSyzZOiY4Mrw7GCGZ,Paint The Town Blue (from the series Arcane League of Legends),2024-09-05
+2024-11-21T22:08:49Z,5LePeqVPPuMSPXf341mitU,Watch Out,1srU7GzSGHwG1ewjSv6ztq,Quackson,169411,False,21,single,66pfqDytWK2mJPDrKHyi9h,Watch Out,2023-03-02
+2024-11-21T06:02:05Z,3dyGqFNEKpoEYe8AKbGOeP,Once Again,4aBx7mA6lUOVhEsjokZrXb,MUST DIE!,187500,False,22,album,0RgGfU50FirKB8Du60MTA1,VAMPIRE WEAPON: MIDNIGHT,2024-11-08
+2024-11-21T05:55:33Z,7EYYrlqYbvV2EqnIF5au3v,Brand New Love,76M2Ekj8bG8W7X2nbx2CpF,NGHTMRE,214400,False,16,single,7tcz1bRcHh4mCp3wvUQFDO,Brand New Love (Synymata Remix),2024-11-07
+2024-11-20T22:53:37Z,3VxkYtmVCInFfhkbsaMg0B,DABADABADABADABA,5FKchcZpQOkqFvXBj1aCvb,Excision,144535,True,43,single,4JGsUCVSHp0G9UESD2eH8g,DABADABADABADABA,2024-11-04
+2024-11-20T22:50:11Z,0rFXKxt3D0wRH6AkBvDvVb,You Make Me Wanna,70qOCKE1NFO6q1a1pC0KRE,Capochino,164666,False,30,single,2rqHqkyDo1cukrn0VrAxS7,You Make Me Wanna,2024-07-19
+2024-11-18T21:54:00Z,1Vx0WzwOEs08JniXQhzGu5,Prism,6azdwGecDNGbIpCpOOdWsG,admo,238000,False,31,album,4wBlEFwojUgU1rld69M7r3,Zero Wave,2018-12-31
+2024-11-16T23:11:32Z,6qhkbEzLyKmBlFTIGn7L8p,AXIOM,09C3CKFxKEw1n1Z7kvT3jb,Deathpact,158297,False,23,single,1YCcu7dz8NqUS7m24YTKH3,MIDHEAVEN: OPUS 04,2023-02-17
+2024-11-16T22:59:07Z,4J9CF6BOShIMD3zCW5hit6,Hysteria,1srU7GzSGHwG1ewjSv6ztq,Quackson,216000,False,17,single,707wwcAzBY9Q8FRdYIkSfS,Dilation,2023-11-30
+2024-11-16T22:51:29Z,6dGm7Nbq7TCho3U8jew0HG,LOSE CONTROL,0AlNB0yIoyxdKloLmK9AOR,Hex Cougar,208279,False,25,album,5yXptClzNwBAw9GdIRxt76,Alter/Ego Volume III,2024-06-14
+2024-11-16T22:37:49Z,2BqUB6rGcPtcOasvy9Vtrr,Hold Up,1srU7GzSGHwG1ewjSv6ztq,Quackson,154482,False,26,single,4FxOJN4gf2kNLfE7n7zR1j,Hold Up,2023-06-22
+2024-11-16T20:43:03Z,0dISkjJktFDtrvHMKSxYa1,BACK TO THE SHADOWS,09C3CKFxKEw1n1Z7kvT3jb,Deathpact,141369,False,32,album,6bT6Jab0G44yTVuKSNthvc,FROM DARKNESS,2024-05-31
+2024-11-13T01:50:35Z,293SzWJMSEmBksytKIa0pP,Penis Music,2xUFofsrGYO0451gYxcWXI,Portamento,75711,False,32,album,0LadYADSp8LlUtbWopw66b,Low Polygonal Ascension,2022-04-24
+2024-11-12T03:51:28Z,7MwjanOxjvV2ILQPfOKIIm,Paradise Warfare,1l2oLiukA9i5jEtIyNWIEP,Carpenter Brut,254814,False,42,album,0io5pe55YRCTVqEjwlOBdN,TRILOGY,2015
+2024-11-11T23:29:08Z,4nECx74TstNdhoE9sO0j78,Ignition,1PbO7aQiVeKbGp8GYWDL9C,Levity,186213,True,45,album,1Fx4mMhHAx9ZeLs3xGOIwY,Escapism Vol. 1,2024-09-25
+2024-11-10T23:48:41Z,4UL3WQdaXTk9nAgDuoq7FF,DOG IN ME,09C3CKFxKEw1n1Z7kvT3jb,Deathpact,141458,False,39,single,22qemRKNlDhQVjW0CyIyX2,Cipher Three,2024-06-22
+2024-11-10T18:57:35Z,3AcT4pRaCvKj6sDW57sgIS,GAME OVER,2K9qsrYnsu1EWt7ZQkkuXb,Ray Volpe,198400,False,40,single,2mjQHe5WBByTNacccwBObR,GAME OVER,2024-09-27
+2024-11-10T18:21:03Z,4PsReF4wE18tgKdi3GvGBi,BUP BUP,09C3CKFxKEw1n1Z7kvT3jb,Deathpact,125793,False,29,single,22qemRKNlDhQVjW0CyIyX2,Cipher Three,2024-06-22
+2024-11-10T03:00:01Z,4Pxm8GR4lQT1WnhvN2qNvx,void - super slowed,6JjQbtAO09K7qBEW2pdX5s,isq,101420,False,71,single,3HEJNpi4OtYpYQlGy2anVB,void,2024-08-23
+2024-11-10T02:13:20Z,58AZXyKRlsMBMcrRjpJpVG,Debut,3c0gDdb9lhnHGFtP4prQpn,KATSEYE,123281,False,68,single,7mGArRHjAYY0o8UYOAfRHf,Debut,2024-06-28
+2024-11-09T05:31:33Z,5kBurObxFYnx0Ds7i0coqT,SOUL FAST DRUMS,3J4heSMiOqE9MpbyGTtNHA,FLOOR BABA,123361,False,31,album,3aIeGzmktFQgn7EJmW4hB2,NEON DEATH B-SIDES,2017-09-01
+2024-11-09T05:21:34Z,1WZGaNYzreZrvteuUEfp8X,Hide - CS01 Version,2sriRQRt36DnfHtD68zZlj,Dorian Concept,181175,False,56,single,245oQswZLETcE6V7aEdNWG,Hide (CS01 Version),2023-12-08
+2024-11-09T02:15:05Z,5hCYqbzdE4AywcxsgVtVpy,The Light,4aBx7mA6lUOVhEsjokZrXb,MUST DIE!,234620,False,30,album,0RgGfU50FirKB8Du60MTA1,VAMPIRE WEAPON: MIDNIGHT,2024-11-08
+2024-11-08T00:57:27Z,6MzofobZt2dm0Kf1hTThFz,Diet Pepsi,4gvjmrtzydbMpyJaXUtwvP,Addison Rae,169697,False,80,single,0XA403JTounqFh2owquBXu,Diet Pepsi,2024-08-09
+2024-11-07T20:18:14Z,3MF3Zj7bYl1PdARlzqfwYC,dancing while the world burns,7ofG5BaSiQp8WeL4YCYDhF,adore,152004,False,52,single,7zxfV31grTIsLAHJwYBL4w,dancing while the world burns,2023-06-29
+2024-11-06T01:24:40Z,5XHgv7lChS8EvqzwoTG4gB,Not Enough,4aKdmOXdUKX07HVd3sGgzw,Rezz,161259,True,28,single,1Hnn5WMNMYM7DBE1U9fdIR,Not Enough,2023-07-20
+2024-11-06T01:24:33Z,0TdYGyJIBeP03IzYbY62U4,Primitive,4juvzVAyR0hOSQ7YfVMijK,Not Enough Space,210417,True,55,single,2UM5crfGgcP091UDXfZHsN,Primitive,2024-10-25
+2024-11-03T23:26:25Z,3xE0aFAEDbS3hjtBB5PKLT,Flip It - Tape B Remix,1PbO7aQiVeKbGp8GYWDL9C,Levity,187916,False,48,single,2NAppK3N8QSMkm1xdVDSBF,Flip It (Tape B Remix),2024-02-28
+2024-11-03T23:14:08Z,60tToQgGBi2ZxHLMqkcy5h,dontstopme!,4zVCMnjw54nkhGHU4e1Pav,ISOxo,221142,False,41,album,2O3rWF27iqSzozxnVfPkXA,kidsgonemad!,2023-10-20
+2024-11-03T22:59:59Z,01lDnsfMfrB2fHq9lzL7Y4,Simulation - VIP,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,258206,False,26,album,40WKzYdV5OBamofJZRftB5,Simulation - The DLC,2024-03-15
+2024-11-03T22:54:15Z,6xkBy4dXb6LxQQ3OuuK2xv,Big Bang (with Crankdat),540vIaP2JwjQb9dm3aArA4,DJ Snake,239350,True,39,single,2DpZjtwH8GG964mwPfVHQ7,Big Bang (with Crankdat),2024-04-10
+2024-11-03T22:51:27Z,6x3e5k1qoufVPL0qFEFtHO,Brainwashed,0o9qzOHuHkGZ3xMFKpMFkC,Black Tiger Sex Machine,291272,True,27,album,4os1LiFckLA5tv0RuD4Mjj,Portals,2023-10-27
+2024-10-30T18:18:58Z,3kuEaIlwAtcFvCw1WD1sB6,Nights On Fire (2024),4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,186741,False,28,album,57dawWYMECpg7ZGKWNH2q4,Stealing Fire,2024-10-18
+2024-10-30T18:17:34Z,3nAmbevSBSvT1pXNmfv3Nh,New Energy,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,201931,False,23,album,57dawWYMECpg7ZGKWNH2q4,Stealing Fire,2024-10-18
+2024-10-30T18:04:09Z,10GjIPMynW5ww9QLoUBRsG,Give in to you,4aKdmOXdUKX07HVd3sGgzw,Rezz,201000,False,23,album,57dawWYMECpg7ZGKWNH2q4,Stealing Fire,2024-10-18
+2024-10-29T21:47:39Z,7mQ20wIKA1WGuvgMtSBl3D,Suffocation - Sped Up,32ENZVmItiETXMCYfM1bbS,noturgf,77000,False,47,single,3Y1VOkLwQTMpERO9TveOws,Suffocation (Sped Up),2023-07-23
+2024-10-29T21:47:35Z,5vCREmODQpdzOmcNOVsN6B,Roi - Instrumental Slowed,1Y5AYn8VTrTR3f8HXQQQug,Mckyyy,92589,False,70,single,2rYTypyWXb39mGLdWKV7jA,Roi,2024-04-15
+2024-10-28T23:15:16Z,6INgUnpHmR75zmfDomxNyp,Black Sands (interlude),4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,131250,False,20,album,57dawWYMECpg7ZGKWNH2q4,Stealing Fire,2024-10-18
+2024-10-28T23:02:26Z,3xSZkBxSU1ghZjYKYBS9Lp,Ridiculous,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,189600,True,28,album,57dawWYMECpg7ZGKWNH2q4,Stealing Fire,2024-10-18
+2024-10-28T22:52:32Z,3sy4NoBaGDlu2cz4TsYs4r,Believe What You Want,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,278400,False,33,album,57dawWYMECpg7ZGKWNH2q4,Stealing Fire,2024-10-18
+2024-10-28T19:18:46Z,3Qmx7R0pwgG0vPbxVDfy1d,"Orfeo ed Euridice, Wq. 30: Dance Of The Furies",7vfydQ0nVBVgJ0ajs8EtRM,Christoph Willibald Gluck,244000,False,33,album,0eKd0WGHFP7flkzOuoEgMc,Classical Hits,1993-01-01
+2024-10-28T17:03:14Z,4XLYjR64Gyjz8dve2N9S8K,Brokendata,2wouN3QXejYa5tKetYdcVX,Com Truise,214588,False,21,single,7njHOwYjouefEKp1XbTx95,Brokendate,2023-03-31
+2024-10-27T20:29:29Z,7vvultYHYCuFk0AJWa5c9O,Phantom,0TdyFEXGty3cRKFCI1CJPr,Vestron Vulture,198000,True,54,single,4Q9C7ysyx6CpjhlaJuKVhi,Shades of Violet,2017-01-01
+2024-10-27T20:27:23Z,6ZteWi8a57gu2RnO3yjY8K,transcendent,4jEwTCIHu0hdDbamxScpou,lucidbeatz,144005,False,50,single,3jBahezD8L4mE6bv3yRcts,transcendent,2023-04-21
+2024-10-27T20:25:59Z,5pKr2RCYmOuvZ8jTXqTkSy,Black Static,0zilOJ2Ze0FLrQ76cZQaoc,akiaura,185526,False,47,single,6MW6qxThKOfnRVqFkxK0H2,Ketamine Girl,2023-06-30
+2024-10-27T17:54:56Z,1aKvZDoLGkNMxoRYgkckZG,Magnetic,36cgvBn0aadzOijnjjwqMN,ILLIT,160688,False,77,single,6irebIc6UO8fN0jl4UlzBS,SUPER REAL ME,2024-03-25
+2024-10-27T17:54:53Z,6aJn7Cst74cj4lNIiPRgav,Touch,3c0gDdb9lhnHGFtP4prQpn,KATSEYE,129882,False,77,single,1hjqg3TuQ2YqooaPhxHwdv,Touch,2024-07-26
+2024-10-27T02:13:35Z,0RYHqnmtNRfbYxP6Dn8Vse,masquerade,0OO76E5lRfeyBI3fkA73Dr,siouxxie sixxsta,144535,False,62,single,1hfRW8Q9CbSzVaKCbaFMxB,masquerade,2021-11-11
+2024-10-27T00:30:31Z,6sGtFDSyc1C7IzAfAZCZuk,Need / Get,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,159000,True,31,album,57dawWYMECpg7ZGKWNH2q4,Stealing Fire,2024-10-18
+2024-10-26T19:07:25Z,2neNk6FcixqV1rCJKzLiCv,Came To Get Funky,3wRQD6UZWlaWEnbgpIEPPX,Cazztek,249711,False,27,single,5J9LnsyOIscH9lDGoBEvrd,Came To Get Funky,2017-06-02
+2024-10-25T23:48:56Z,2LbwHdlV55utj4NLqBrdVi,thinkaboutit,6hBrJJrcYoNhvLC6KaFR4b,Eliminate,239979,True,27,album,79Vap7cvRfZIf5qV87LbKV,Get Off The Internet,2024-02-02
+2024-10-25T23:26:46Z,1m0Y47ublXhXBMPPuq803r,Star Destroyer,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,229600,True,27,album,57dawWYMECpg7ZGKWNH2q4,Stealing Fire,2024-10-18
+2024-10-25T22:46:21Z,3AoEQRuFf8zVXWqSLo2UOi,CRAZY,4SpbR6yFEvexJuaBpgAU5p,LE SSERAFIM,164554,False,75,single,538vEfAgLJ6g2I8ubuOlap,CRAZY,2024-08-30
+2024-10-25T22:19:34Z,4ISgMfSWEuwVRj76YPVopn,Give in to you,4aKdmOXdUKX07HVd3sGgzw,Rezz,201000,False,45,single,5waNDGxDsidfGG5PzJlji0,Give in to you,2024-09-13
+2024-10-25T22:07:39Z,4Pce2ckmqwKLciLxf4bX8d,VROOM,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,221111,False,23,album,57dawWYMECpg7ZGKWNH2q4,Stealing Fire,2024-10-18
+2024-10-25T21:56:27Z,2ez05kaHbFLyu70MMSNQpA,Bass In Yo Face,18Eu7uJEMPWwwt1QUdCglQ,INZO,187683,False,37,single,1XMX76i2nCTl52fvyV7zra,Bass In Yo Face,2023-10-26
+2024-10-25T21:51:58Z,1oYuQU9DXJ8ucOdmfBzzMF,Heavy Bass Design Vol. 3 - Sample Pack Demo,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,260000,False,22,single,2NfKTKzOnnLkEtQeFfb0m4,Heavy Bass Design Vol. 3 (Sample Pack Demo),2024-05-06
+2024-10-25T21:45:42Z,6mjAMJjMb5FUvRFOyBLeKv,Throw It Back,0LIl9fjMPEZp8UDiL8Yuo4,4B,140142,False,32,single,3eKEOVPOf9zuTO66tszH9x,Throw It Back,2024-03-22
+2024-10-25T04:30:25Z,44bbIyM2FEwwwMfxptIoTZ,"Everywhere, Nowhere",4aKdmOXdUKX07HVd3sGgzw,Rezz,185600,False,35,album,6tQ1vjB7ZXy8sKkGEtHs1X,CAN YOU SEE ME?,2024-03-14
+2024-10-25T04:08:17Z,6aTN1V5VCHjn8q73XsXTCT,Stealing Fire,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,231500,True,38,album,57dawWYMECpg7ZGKWNH2q4,Stealing Fire,2024-10-18
+2024-10-22T18:25:25Z,1iC8J6LybFG7CdVYf3ok7W,Scorched Earth,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,280800,False,25,album,57dawWYMECpg7ZGKWNH2q4,Stealing Fire,2024-10-18
+2024-10-22T18:19:49Z,3PFxc75RY3fsgt4KeHlcci,Touhou Riddim - Subtronics Remix,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,208551,False,33,album,40WKzYdV5OBamofJZRftB5,Simulation - The DLC,2024-03-15
+2024-10-20T19:13:48Z,25ArkZpdsdxliawDn8mRMb,Body Say,0R7QDPXqFaQ9F0FdTZUeca,XANDRA,135357,False,36,single,0a4wdZN2wkmeXEgTWS34gB,Body Say,2024-07-12
+2024-10-20T04:52:52Z,629DixmZGHc7ILtEntuiWE,LUNCH,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,179586,False,81,album,7aJuG4TFXa2hmE4z1yxc3n,HIT ME HARD AND SOFT,2024-05-17
+2024-10-19T04:02:59Z,5gqLY5H1ZyT3BScVr0nDMs,Sway With Me (with GALXARA),6cK3NBO6uP7hh0oyuVELFl,Saweetie,168018,False,50,single,5uC0YWUVDKRZD9x1cRgjyu,Sway With Me (with GALXARA),2020-01-31
+2024-10-19T03:57:27Z,4LgB8rYhW4HVQDfznTMG9I,"Sine From Above (with Elton John) - Chester Lockhart, Mood Killer & Lil Texas Remix",1HY2Jd0NmPuamShAr6KMms,Lady Gaga,250140,False,32,album,3OevODyllQCrhudfLLnV3y,Dawn Of Chromatica,2021-09-03
+2024-10-19T03:52:54Z,3DDXkclKsFTUvBIAviBLo8,Treasure Island,7gRhy3MIPHQo5CXYfWaw9I,Azealia Banks,201880,True,34,single,5io9WH68oqLT2WiA0v57yL,Treasure Island,2018-07-06
+2024-10-16T22:09:11Z,2czZQiKd3lz4VqnwqclxW1,Worm Rave,72igsHCazmE9rlVm0c4I9d,Metaroom,108000,False,38,single,2SWWAQv4llmIbcUrZTMTO4,Worm Rave,2020-09-05
+2024-10-16T22:01:18Z,5eaZtvSQfyiY3DxdG1fjs3,tik tok,6GVd3327JY65jGWX4X3wHS,gladde paling,88000,False,27,album,4Jx05pDxvtae0H5gDHGSBa,eurodance revolutie,2024-08-09
+2024-10-16T22:01:14Z,1Y7ovi4HD3yNzApYSm3coP,TRASH CLAN,72igsHCazmE9rlVm0c4I9d,Metaroom,160975,False,37,single,71BDm15IOaxTh5HrqEWW3V,TRASH CLAN,2021-08-09
+2024-10-14T22:14:05Z,6SAYyzfj00qgS35oY5t6w7,Spicy Riddim Drums Vol. 2 [Sample Pack Demo],4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,140788,False,12,single,1UrTt1IutisCYqaFam5onG,Spicy Riddim Drums Vol. 2 [Sample Pack Demo],2022-10-04
+2024-10-14T21:44:25Z,2sHAn0xGFqwl5X1ciLvfv2,Laugh,19EW4WBhl0fvZUQgi7wV5M,QUIX,218395,False,10,single,1bdCAIPA5z4ixrc9D8ch8F,Laugh,2023-05-12
+2024-10-13T22:48:14Z,4NVvx8aXIqxj2Pm0E4senX,Move To The Beat Like,5wuaDFXpmEuasEnBVSDLqQ,401 WST,106875,False,19,single,4zOJRnSALdyW2xpQAshRip,Move To The Beat Like,2022-02-04
+2024-10-13T20:23:05Z,0p2dTl1xjRTa7Q3OZBS5zW,Mutation,6hBrJJrcYoNhvLC6KaFR4b,Eliminate,223200,False,24,single,6Ci4LwlsCj3LqoQR5AyABC,Mutation,2023-03-17
+2024-10-13T20:08:39Z,4CLh2FZhGbH7EouNDJQvjx,Rally House,661DKnfZy9RMb8FcbUZboE,prod. DTM,96396,False,59,single,1aIp9j1ay2aP1Sk6Gf3WS0,Rally House,2024-01-23
+2024-10-13T20:06:40Z,5GOyyufqny38BvNu99ts2z,Murkmelt,3pyb2uKBcH0AANqERQpJoC,Eddie EWI,99740,False,17,album,201TKctUQ3rF4o2t8QqMq5,Bloop Loops,2024-01-16
+2024-10-13T18:05:58Z,6TRRsPshmDyaScM82id4I8,Emergency - Speed Up,4ea8aZ1hr2yK5s3JnaCAh6,MESHAPI,93000,False,26,compilation,3FZSSs9JZVjXI8hVb6HLX1,Hent Collection (Speed Up),2023-03-05
+2024-10-13T01:29:22Z,1crkfOdAp6mivmnhenlOgf,STILETTO,13OXgp0fFDhWRPSXnN8yLT,BRVMES,147428,True,20,single,5sxcpCAf2zy4nBeq7l2ZQZ,DAMNATION VOL. 1,2021-10-15
+2024-10-13T00:56:25Z,4ngxsjLzV9E6oeFP5JVCAd,I Dont Give a Funk,7CXc7Ia5Mjd3ySx3RtrIWR,aUtOdiDakT,148800,False,8,album,75yWQx3XPmVLYCg4CxdlQw,Basic Bangers,2020-08-31
+2024-10-13T00:54:49Z,4E4SKAGDK6lpb6Hc33hUoN,RIP,1fd3fmwlhrDl2U5wbbPQYN,Apashe,222928,False,39,album,6u26YQ3XrrBmHUj3g0dzhJ,Antagonist,2023-11-24
+2024-10-13T00:15:32Z,65EjhlivOdpiMmLTBeoEEL,Fool 2022,0Hh9X3QxTHPE2dlAS1g8IN,Rome in Silver,183786,False,13,single,12JG4M2zOePx61zZbBuNTA,Fool 2022,2022-09-30
+2024-10-12T02:21:50Z,5nuyCix3R7RUitKPxkqIac,Rude Boy 22 - Spotify Singles,67qogtRNI0GjUr8PlaG6Zh,Zeds Dead,135529,False,22,single,4SZa061qdVYEZTTqE4DfwS,Spotify Singles,2022-09-28
+2024-10-11T18:48:10Z,0c9YITBx27aVPVC7baiOmB,"Petite suite de concert, Op. 77: III. Un sonnet d'amour",0fhN6BHa9pN66ZnsrI5NUR,Samuel Coleridge-Taylor,185400,False,40,album,2uWmtnkepfi7rZLijWYDhU,"African Heritage Symphonic Series, Vol. 1",2000-01-01
+2024-10-11T18:38:48Z,246ntJR3A2s7B5E40FTCLf,Hummel: Trumpet Concerto In E Flat - Iii Rondo,0WiK9IsQEQEuIQ1iDxvuPg,Johann Nepomuk Hummel,224640,False,37,album,4wL0H6UyrYeyRk4Sg9kARN,Trumpet Concertos,2007-11-12
+2024-10-10T22:05:16Z,5TOVkN57T97bMvXASjBLEs,Witch - Nitepunk 'Broken' Remix,1fd3fmwlhrDl2U5wbbPQYN,Apashe,220150,False,15,single,3m8fLUzHNEJBQNdGUgmWkt,Witch (Nitepunk Remix),2022-07-07
+2024-10-09T19:06:03Z,7iYbeg6YupcSQzc3wDUGIE,Think About Me,4wrWMxa1wnZX5ZDhV6qk6f,Rad Cat,170880,True,27,single,1OzUjnUL0935MPPxFOFo6C,One For Me / Think About Me,2022-04-08
+2024-10-09T18:57:43Z,7cknuuZO487P990IBOpo0O,Tempted,7i9LZ5LaSzbGqkeInRYNK0,Max Kilian,142500,False,20,single,0dGVylnPWsEhELU9DEEqQX,Tempted,2022-04-22
+2024-10-09T18:37:48Z,5sB5f9IhT6D6QCwNQgYrN7,Break My Body,47qvYTBXfIA3etFHC7Yd55,WCX,147187,False,5,single,3PMKPIrPFHoCr3r21GeAd7,Break My Body,2022-12-13
+2024-10-09T18:35:39Z,2PyabM6pK7ZFXMNlkQrP1r,DRAG ME DOWN,53M4Iv2RkzzxFFvW2B1jhC,Breathe Carolina,152000,False,18,single,1HID0wQrdd5FuxcUloKFhZ,DRAG ME DOWN,2024-02-23
+2024-10-09T18:33:43Z,6xgSXClcPJAiohZWl6WgjW,Temptation,1dhLLX9IY5DD8uElJwjZFX,DJ Kuba,156495,False,28,single,6sQahsQ8JVVi8gdZzzBm4B,Temptation,2020-10-09
+2024-10-07T18:44:32Z,3128T8b8g53TzGhr0AOsvF,Superfreak,5TloeWiZXG1ttx3qXHxbs0,BeatFreakz,203480,False,21,single,3QUvjCRvq2CXRsOAb8uvSc,Superfreak,2006-10-09
+2024-10-07T18:44:22Z,6w5VrZqwVBOByJ1ySNVWpu,The Ride,53M4Iv2RkzzxFFvW2B1jhC,Breathe Carolina,171692,False,24,single,51hFBSQlIqazmmWCbTTo9y,The Ride,2022-08-19
+2024-10-07T04:54:43Z,0hMaok0IcoS4mooA4lgDCs,Cores & Shells,5MI0dQrxPC7MEWdiCUmtMP,Oneeva,272856,False,0,single,5lhzHULh3xaPPrM2gynng7,Cores & Shells,2017-01-23
+2024-10-07T04:09:57Z,0X3iy1MFMfmIDCBK2S5yWL,paranoia - Sped Up,6cMsaDvwIUXtHGQPDbqHvn,Scammacist,97734,False,46,single,0wZ8yCDFv5gUFSNzH4pJsb,Paranoia EP,2023-08-11
+2024-10-07T04:07:12Z,4fXAPpamhszdrStSZTHRyI,All Good in Da Hood - 2024 Remastered,1zftPdKSYBqbdMc8BVRWsg,DaDood,162395,False,26,album,6kcNazwmjGUdlIcYd6w8LM,Fairytales & Fantasies,2024-07-08
+2024-10-07T04:04:24Z,3gBei114SGRYBeKPxb33b1,Rambunctious Beet,1zftPdKSYBqbdMc8BVRWsg,DaDood,179980,False,44,single,2u14lvSW5j4NSOjDmTDlmY,Rambunctious Beet,2022-01-14
+2024-10-05T17:37:24Z,2TbjVYIbgIh7jBAkSTCnaC,lift off!,1np8xozf7ATJZDi9JX8Dx5,salute,214391,False,41,album,0K7hOcNhAGs54ANFnXw6uM,TRUE MAGIC,2024-07-12
+2024-09-29T20:33:30Z,6tlDHlKIvabhyhlGP1Tkh9,Thank You,2HDr90mJP3k5gaCkPIKdEn,BYNX,168960,False,27,single,2n0lPOStK5EVaQxiTKsF3Z,Thank You,2023-08-18
+2024-09-27T01:10:22Z,5tkVC8EcUXEZNwmD45e7tq,Tell It To My Heart,1LOB7jTeEV14pHai6EXSzF,Cash Cash,175327,False,46,single,1KxlM9HIGOgM7SOMko1W9m,Tell It To My Heart,2023-09-15
+2024-09-25T15:29:57Z,5V00ZhzyrSKM6WSBn44gE3,Angel,1QMgre3BHX161ZHtWMUu6S,Dimension,182068,False,51,single,1l8lYGYLSYgh5vdfxJjvBc,Angel,2024-08-30
+2024-09-24T22:21:28Z,2a8HW9Y4PQu7j9h0zZ9ro4,Wait,72iCiKwu6nu6Qq9emIwzYv,Kayzo,218666,False,24,single,4uviOmAFYHaEC7UNW3qwFx,Wait,2020-08-26
+2024-09-23T23:38:25Z,4wOpEBvnIXTcC2ASM6J1dQ,Goodies,5R3Hr2cnCCjt220Jmt2xLf,Dillon Francis,121904,False,48,album,5H1GCTOowyeZzBVBddvdFD,This Mixtape is Fire TOO,2023-12-01
+2024-09-23T23:32:26Z,2YhEJoYccyE5wpdAkZWbPk,RWEOK?,5Kmr0b3ip8g9P2i0dLTC3Z,Disco Lines,147401,False,53,single,1ohdPPIK0Gl5F3oJafcwgQ,RWEOK?,2023-07-28
+2024-09-23T23:23:36Z,6tifCCTIVBLC2TmTquYG7G,Fine Day Anthem,5he5w2lnU9x7JFhnwcekXX,Skrillex,193690,False,59,single,2mxzA7momOeBvCyKDgZRIb,Fine Day Anthem,2023-07-07
+2024-09-23T22:53:21Z,5SFCEkybGYmmzKqewtDEaN,Body Moving,4XC335ouK6pXyq4QiIb8bP,Eliza Rose,154215,False,56,single,5EcypjAXyzxlrF5AKCNg9K,Body Moving,2023-11-17
+2024-09-23T22:41:39Z,0fCgNTIEUGb4lztkN47bL7,Mort / Fine,0wuuYZFptujAsRthrdea2B,Vendredi sur Mer,188888,False,0,single,1IlGlb6NivSl6qKdvbIYbC,Mort / Fine - Single,2015-03-09
+2024-09-23T22:34:26Z,4jjtFbO4dYu4JO0CIph6Ak,Le Disko,6UocZe4AprSYBvmn3J0oqY,Shiny Toy Guns,203306,True,42,album,7EJf2RoD8f2Tm7hzpwK4bQ,We Are Pilots,2006-01-01
+2024-09-23T17:49:39Z,5nErXWtP4JSe11Sou9g1g9,Flashlight,2exebQUDoIoT0dXA8BcN1P,Home,165902,False,24,album,37SWbswE3jEairzfGWBHgH,Falling into Place,2016-02-26
+2024-09-22T22:43:49Z,3soNZcqRQKQNQGB24dGJEf,DECAY,24kY0bUku58QhWv5WFFXaf,REAPER,188057,False,15,single,38PO39ZfCCUM49MNE9VuvR,MILITIA,2021-07-02
+2024-09-22T18:36:12Z,18dlAFKaajLjRgBNZZ4ThU,Not My Fault (with Megan Thee Stallion),2hUYKu1x0UZQXvzCmggvSn,Reneé Rapp,170528,True,64,album,1LJWyyP756YVEeIRa6DU74,Mean Girls (Music From The Motion Picture),2024-01-12
+2024-09-21T18:57:51Z,2Dazu1HgFj1geJOfKKFOpf,15 MINUTES,2kRfqPViCqYdSGhYSM9R0Q,Madison Beer,189192,False,59,single,4OFZVvqlg84Czl7td7XddK,15 MINUTES,2024-07-19
+2024-09-21T01:18:56Z,60c4l8iCfTzzQALsKcmVan,Bus to Beelzebub,5TOosZsVbwb5O1BOFdcLmw,Soul Coughing,273733,False,23,album,6JHowYqtDso2k1ji5H7vUy,Ruby Vroom,1994-09-20
+2024-09-20T03:34:08Z,08zuBTzQbwfmpLAfuEIV6R,Ghosting Your Love,1tSiIyp5dxfbEaS0nZGMEl,Basstripper,199728,False,37,single,0vGtSVO4QjFAOU0ojOYsJD,Ghosting Your Love,2023-09-08
+2024-09-20T01:58:22Z,7vf5kUmG3wK4p0tl0rLTGE,PULSE,24kY0bUku58QhWv5WFFXaf,REAPER,196379,False,23,album,1UXLEXcUYHLNouwidskiMa,DISRUPTOR LP,2022-05-06
+2024-09-18T19:32:16Z,6ubaO4iPmPCrtSsMkfmw9v,Feelings,5oDtp2FC8VqBjTx1aT4P5j,SHY FX,287626,False,40,album,2AQvEaTftBRkdPm631O1rZ,Diary of a Digital Soundboy,2014-03-28
+2024-09-17T23:40:57Z,0Sqh9dVJMFJRwz4K0jeoOR,You'll miss me when I'm not around,053q0ukIDRgzwTr4vNSwab,Grimes,161691,False,45,album,4zyqNfmTrnvUejh8M1IEh9,Miss Anthropocene (Deluxe Edition),2020-02-21
+2024-09-17T23:36:38Z,3b6ZWKonZcaHlhivx6M63z,WIZZ - COBRAH REMIX,5xmw3tD4MbvhA1ay1U0HEC,COUCOU CHLOE,160000,False,45,single,2LARgSJUXDdSE3U5FQbOyS,WIZZ (COBRAH REMIX),2022-10-27
+2024-09-16T00:24:07Z,19fKJrO9XdOf6Xla2QHecO,Run Your Mouth,2sSGPbdZJkaSE2AbcGOACx,The Marías,160000,False,70,album,03guxdOi12XJbnvxvxbpwG,Submarine,2024-05-31
+2024-09-15T23:46:55Z,3Y1EvIgEVw51XtgNEgpz5c,Von dutch,25uiPmTg16RbhZWAqwLBy5,Charli xcx,164284,True,75,album,2lIZef4lzdvZkiiCzvPKj7,BRAT,2024-06-07
+2024-09-13T23:01:05Z,5z3qI600pJHgfefC5ibanK,The Necropolis,0ZMWrgLff357yxLyEU77a1,Darren Korb,521666,False,26,single,4JIbbUpzdjmAE9nYvRc3ZZ,The Necropolis,2024-05-08
+2024-09-13T22:29:49Z,5cu3m5HXnoHznq2IniFIqT,The Titan of Time,0ZMWrgLff357yxLyEU77a1,Darren Korb,480437,False,28,single,0qO20OW61yb6HlWN5oy9Nx,The Titan of Time,2024-05-08
+2024-09-13T22:23:40Z,65pRSbXmrkdE1HzzIkeLPH,God of the Dead,0ZMWrgLff357yxLyEU77a1,Darren Korb,541336,False,37,album,5jTYZA6b4VoSRnR5TMldgb,Hades: Original Soundtrack,2020-09-16
+2024-09-13T22:12:50Z,2cmwxQvJdOLqs9SMV4iLvd,Evil Eye,0ZMWrgLff357yxLyEU77a1,Darren Korb,169250,False,25,single,2Xi0Skk5iewcOjdIjjafJz,Evil Eye,2024-05-08
+2024-09-08T03:30:35Z,1jtyxVkYi3WDDswiOXulx3,Simulation,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,185379,False,25,album,5iS3iVP4mj29YqqsdiAP3I,Simulation,2021-09-10
+2024-09-08T03:19:53Z,5Z5fBGwWP4x0mYCmchLpc1,Vessel,1ZpDxqXS6HAvoZyCzQfKRb,LEVEL UP,155200,False,43,single,5f9SHWzhvxa82Tm2icAptO,SHADOW SYMPHONY,2023-03-31
+2024-09-08T03:18:04Z,0shcawVbNMznHPKeW9gfmF,Bossfight Afterparty,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,181942,False,23,album,7x1dKpDdQLwqpE6XoGFxT9,Simulation (Deluxe Version),2022-02-04
+2024-09-07T23:10:10Z,0A0AkrxpGHD3zNjCaMLZXo,HEATSEEKER,24kY0bUku58QhWv5WFFXaf,REAPER,189202,True,31,single,6BKLmo3v3v51o4tMjqfhgh,HEATSEEKER,2020-03-19
+2024-09-07T23:00:57Z,3THQEUUAvBMkCHXXAsqCxJ,Fork Funeral,4FXGRMSHh2JjHxVwS8dhH1,Virtual Riot,198750,False,17,album,5iS3iVP4mj29YqqsdiAP3I,Simulation,2021-09-10
+2024-09-07T04:14:00Z,1Q9gl92rXK7CxUvcj0NeT0,Dissolve,5FvtVMNjZKDtEiMFEvrSvJ,Yheti,128336,False,20,single,1btOSwqAlNjzdoqJag4UvD,Deformed,2019-02-18
+2024-09-07T03:50:25Z,10SI1DrA68VIf0r4mYitdo,Billdozer,1a6oIpEh4DGgaqgWg5xwd3,Ganja White Night,269825,False,32,album,2AhomobPIGZiBZodF1cVEg,Unity,2023-04-28
+2024-09-06T17:23:57Z,7rzA5tg7MLisbKVkO1AZqF,Moon Funk,00CYRdkMnA0mwfy1VQPA7X,ellis,167478,False,29,single,2crRV2e8qz07TZVlUnQI2z,Moon Funk,2019-06-28
+2024-09-06T17:05:31Z,1w5HknXbhqJ1hlDKrIBooY,In Your Arms,26OrZl5U3VNGHU9qUj8EcM,Shift K3Y,144000,False,53,single,4hCki1eUKLdAWugvm3lIPY,In Your Arms,2024-06-21
+2024-09-06T16:53:15Z,59tskctgqUmjCWAwhzYAFm,Looking at Me,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,181120,False,72,album,19KilSbbeHRFFZM7ChwTdP,Singular Act II,2019-07-19
+2024-09-06T16:04:14Z,6l6XVeeoTe3ggya4fLY8l8,A Tear in Space (Airlock),4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,203989,False,62,album,5i6LJyHq9wxLSecf0N2Iuw,I Love You So F***ing Much,2024-07-19
+2024-09-06T03:50:34Z,69h7zqPyU2pBGsghnQi4mG,A Piece of Sun,5L67d6oZKOOmXcBcMMJdZZ,Point Point,181090,False,30,single,1oKoWkYBXpkRvwXqXwY9CU,Family Portrait,2016-07-15
+2024-09-06T02:15:28Z,1wNGpQSw15a7rXjtcK4hK8,booboo,2RqrWplViWHSGLzlhmDcbt,Yaeji,212266,False,46,single,4BfBqITkTu0mQbjXEhL2yT,booboo,2024-08-21
+2024-09-06T01:30:34Z,0fsgieABBLYkx6rk5N3JUD,NISSAN ALTIMA,4E2rKHVDssGJm2SCDOMMJB,Doechii,128132,True,61,single,3P3ODJQfeECySRtPV8cJBZ,NISSAN ALTIMA,2024-08-02
+2024-09-04T18:58:33Z,6xScbo2dQ5Faq1W7wAts7I,Momentum,31tVXduq7FmEznjanEBQJA,Scattle,194042,False,17,album,6zjV5OH53JVgvOhh1QdCJp,Scattle,2018-06-05
+2024-09-03T22:26:51Z,4MBF5oaGndmxPtzta4bupu,The Plans,31tVXduq7FmEznjanEBQJA,Scattle,55652,False,6,album,2INOnHqbabAvAl82VBjlfr,Black,2024-08-02
+2024-08-31T21:46:12Z,33E5u0qmzBlsHkhU1bTBWa,Chapstick,0ZxZlO7oWCSYMXhehpyMvE,COIN,193299,False,54,album,6ep7RptFPcLPi3qAhwi8l6,Uncanny Valley,2022-03-25
+2024-08-31T21:03:28Z,6IbCvfmmICEEAyDwQ9zcbt,I Don't Wanna Talk (I Just Wanna Dance),4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,195190,True,56,album,0E2xXn23qVmfx9ThZjWFBE,Dreamland (+ Bonus Levels),2021-09-09
+2024-08-31T19:12:32Z,3H0u4i0rnjVYnaYlT6hIw1,Fun in the Sun,20cmhoGvN0eyzhmsHJH1Mg,Luude,167314,False,57,single,2galUcRqce0LWecrsJgb3w,Fun in the Sun,2024-07-26
+2024-08-31T18:53:49Z,28r1xYNakXXwcQKIXu9Wjw,DJ Turn It Up,1QMgre3BHX161ZHtWMUu6S,Dimension,177931,False,59,single,1POsjSFSyqW21AEn71tdJn,DJ Turn It Up,2023-05-19
+2024-08-31T18:33:33Z,5f69wzvle0b9ColR7wuvEK,Lose This Feeling - Dimension Remix,0SfsnGyD8FpIN4U4WCkBZ5,Armin van Buuren,190344,False,51,single,2kHZ7gAabF2o10f7i4VdRq,Lose This Feeling (Dimension Remix),2023-10-13
+2024-08-31T18:32:16Z,0LszuTLIa14PGJYSYmmJbh,Still Here,2BQWHuvxG4kMYnfghdaCIy,Fox Stevenson,194476,False,41,single,1wOfvS8Y6lJbwmyGnjvW1b,Enemy Brain Entertainment Suite,2023-02-01
+2024-08-31T03:23:10Z,6f9bZIy5qHmlskwuxzeOMM,Power,5TgQ66WuWkoQ2xYxaSTnVP,Netsky,226206,False,40,album,0SUfKH80GjuKbA5dTWSwkh,Second Nature,2020-10-30
+2024-08-31T02:31:55Z,5utINKwnXh1drV2vI9cnze,Bombalaya - Blooom Remix,3cMInYqk6yzf37zo8iznoz,DNMO,248571,False,61,single,0Pn7tCMEM2cJINrr1gSTbE,Bombalaya (Blooom Remix),2024-05-16
+2024-08-30T23:56:58Z,3FLnHMQ1gWhEdAn2yqp2uo,Rainbows & Waterfalls,4iVhFmG8YCCEHANGeUUS9q,Pretty Lights,254680,False,41,single,56bvAGUU0349dM7ixLPrKc,Rainbows & Waterfalls,2017-10-20
+2024-08-30T20:54:41Z,5u7jcaSQzataRZ3EHDGGN7,Guerrilla,0NB5HROxc8dDBXpkIi1v3d,Remi Wolf,164782,True,39,album,7tJ8Wtej161vR0uCbGDiDR,Juno,2021-10-15
+2024-08-30T20:53:56Z,0z1YtkIaMQcEb2wvspwwZb,Fluids,1m19wFvOFvPm15no62SlAD,Michael Medrano,152000,True,38,album,36SMKtLm78ajsuQqCZPJno,LoveSexDrugs,2023-04-07
+2024-08-30T20:50:54Z,0RZLmpEzGR2NHite6rvS5H,Space Ghost Coast To Coast,4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,187383,True,56,album,5bfpRtBW7RNRdsm3tRyl3R,Dreamland,2020-08-07
+2024-08-30T20:34:46Z,4zXZ5Mq2L6jnsOsTssgRh8,Hush,2sSGPbdZJkaSE2AbcGOACx,The Marías,181893,False,60,album,5TkaDC4mYSLBvdG6UrIB0v,CINEMA,2021-06-25
+2024-08-30T20:24:06Z,46clCWv55EyW1ZlOl796It,Cinderella,0NB5HROxc8dDBXpkIi1v3d,Remi Wolf,243952,False,63,album,7HQOEMCDGKY8eJyQPdsnYH,Big Ideas,2024-07-12
+2024-08-30T20:16:26Z,00m9b0XZO90odH3j7TBBYd,Mythologica,7dStW3oUoLZIbJMuhmx9Dg,Ofrin,157769,False,31,single,7CdfTAlL7NHa7B0BmVV0ku,Mythologica,2020-04-17
+2024-08-30T19:00:00Z,29I9dv9Nq704w0Oc5yFGsR,"She’s Gone, Dance On",6nS5roXSAGhTGr34W6n7Et,Disclosure,226773,False,68,single,4klc9KJJVpA7fwJJT1duGq,"She’s Gone, Dance On",2024-05-29
+2024-08-29T23:40:06Z,50AekvESV8GtXwAfwqra54,Satisfied (Radio Edit),3gk0OYeLFWYupGFRHqLSR7,Showtek,221639,False,22,single,6DwG2GveJsbyOo3ArVBRFj,Satisfied,2015-06-15
+2024-08-29T19:08:48Z,5WAZBrbZuZvcfKWywjJwld,Cave Me In,1bgWqGp78w6C8CNPvD6Qlo,FWLR,194600,False,28,single,5IKziznBpAMKaHw3mR2BfJ,Cave Me In,2019-02-04
+2024-08-29T19:05:38Z,67Sb5mCfhpMDiD2ZbIGh4S,Hypnotize,3L7JnVovGbYSUmRyqhXMYO,Fairlane,187835,False,34,single,4WvJjrZQhOLCTNnPUdZpQw,Hypnotize,2021-06-02
+2024-08-29T18:50:15Z,2bLiZF46JqLUdPXHIAfZx7,How I Feel (20Syl Remix),7tGUrTkeuwn55wnNKYwPkE,PLPS,196571,False,22,single,0gRafF7n2DmBCnGuah4Z2t,How I Feel,2015-11-06
+2024-08-29T18:39:43Z,4ZXAVTnAHIXXdVKjTVduxu,Aamon,5mVWu2Ofpm2mlEpuMm3b4Q,KUURO,224000,False,22,single,5xtSCryhJMqcoQaNMxnfGh,Aamon,2016-10-07
+2024-08-29T17:59:11Z,63hTGiELUmNseEn3rVWLLi,Lost In The Dark,2eMb96S1ZJ1YQ7FhWAzWJL,Pearly Drops,228480,False,32,single,1xCG1fQzBBG833J5JS3NnG,Lost In The Dark,2024-08-14
+2024-08-29T00:25:47Z,3Z8kttLf0ZJKG0Wfm7tY3f,COACH - HD-4884 Remix,24kY0bUku58QhWv5WFFXaf,REAPER,180000,False,12,album,2FnJua77DZXXFVBaizPjJw,DISRUPTOR LP (REMIXES),2022-08-26
+2024-08-29T00:14:25Z,5yyIbhZ9AaRbpS3EJY0eZK,MOVE TOGETHER,24kY0bUku58QhWv5WFFXaf,REAPER,167586,False,19,album,1UXLEXcUYHLNouwidskiMa,DISRUPTOR LP,2022-05-06
+2024-08-28T22:37:09Z,5aOX7PvuigO8bJVNP7wfgV,I Feel It,1gbDc1TANALgP8lLvO5UEf,AHEE,233924,False,0,single,02DNUWMjZAJetRKtCBgaTm,I Feel It,2020-08-25
+2024-08-28T22:18:15Z,6zCNAB1z3QdxklS8Hpo8yA,RELOAD,24kY0bUku58QhWv5WFFXaf,REAPER,181569,False,23,single,1ufueDEIU7GYmBgjRYXHqp,RELOAD,2021-09-09
+2024-08-28T22:15:07Z,77Zo65ur5OzpBIkCaX4wsa,Next To You,2zmc5GOSrIaronLdKaqluH,Subshock & Evangelos,171034,False,28,single,1X6fKhyeWmD9sNnAcLb6Tj,Next To You,2021-08-20
+2024-08-28T19:42:23Z,5CcX6RT2uQmVOIyycug9hb,199X,3hvgLXeDFNiqDOVXl0xTge,LukHash,150509,False,23,single,2PTbZFngKfPb9mmCA85Nsw,199X,2024-03-01
+2024-08-28T19:39:26Z,7IZMiifqVUoazTVrHBnIJX,UNDERDARK,55DhV9I8VahoWvpa3QMPP5,Rogue VHS,182033,False,31,single,5RsfKhkRcreyGH6XBfPbxf,UNDERDARK,2024-03-15
+2024-08-28T19:35:02Z,7d9kZkVRxvuKLMJxfR3XYD,EMERGENCE II,4ea8aZ1hr2yK5s3JnaCAh6,MESHAPI,98165,False,31,single,6H0dQBJlLJxJnodqcE90HM,EMERGENCE II,2024-04-26
+2024-08-28T19:33:05Z,05KAf7j7V2Z1s4xkkbbaxX,"The Girl Who Glitched (Ai.Mi's Theme from ""Omega Strikers"")",0mvs54wqQ5uGpPgZKlVvUx,Garrett Williamson,110625,False,28,single,5lAaCKefJZ5WJbSbFqFVY5,"The Girl Who Glitched (Ai.Mi's Theme from ""Omega Strikers"")",2022-10-12
+2024-08-28T19:28:05Z,58Q2nbjCeGCPB1aveHrBYU,Narukami,38EIyCULsZ0FChHoe4uUxN,Momokusu Iwata,128780,False,25,single,1PG44uH7w1EeCjYLBlWuvp,Narukami,2023-04-27
+2024-08-28T19:13:51Z,27QEjWqOPqg5MV0RANFIt8,Akumu,58Lhq8YgZ0E3DDAA8pBufV,ShogunF,159157,False,31,album,0mvVnIlqBcvVym8BS3pGxF,Kagutsuchi,2023-02-03
+2024-08-28T19:06:04Z,6dgUya35uo964z7GZXM07g,Nonsense,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,163648,False,81,album,5kDmlA2g9Y1YCbNo2Ufxlz,emails i can't send,2022-07-15
+2024-08-28T19:03:15Z,6eLLQ5NzQchs3RalH4TcVa,Disco Marathon,1l2ekx5skC4gJH8djERwh1,Don Diablo,136000,False,34,single,00g9nQ0HVCvPIN6qEwQww8,Disco Marathon,2024-06-14
+2024-08-28T17:17:34Z,2rHUyJioDOKDshDDxzbISl,Espresso - Mark Ronson x FNZ Working Late Remix,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,184156,True,55,single,29UKCfgIX2fgBff2uSz6qV,Espresso (Working Late Remixes),2024-05-31
+2024-08-27T23:21:22Z,40jqRY00ZBurt1HqDxUOt3,The Action,1gbDc1TANALgP8lLvO5UEf,AHEE,193200,False,39,single,0jq2WhY16lMP0B5xljkjZQ,The Action,2022-01-19
+2024-08-27T22:59:27Z,39jSgBE48u2I4ofkbKtSi0,CALL MY NAME,24kY0bUku58QhWv5WFFXaf,REAPER,160000,False,44,album,1sD7lcyqCUGQfsyN6JWXlV,CHALLENGER,2024-03-08
+2024-08-27T22:40:16Z,71nNz6rg3bQfQfYCW5bTuz,Bug Eater,1gbDc1TANALgP8lLvO5UEf,AHEE,147200,False,36,single,28t5vLxvZM6QlxYPC0ltaA,Bug Eater,2021-06-18
+2024-08-27T17:45:25Z,1LQVzR0v8G8bgIq4uwsaYC,Goodies - Knock2 Remix,5R3Hr2cnCCjt220Jmt2xLf,Dillon Francis,209523,False,30,album,5KDYfnaLzovDzekL9CLFJs,These Remixes Are Fire TOO,2024-03-29
+2024-08-27T17:17:21Z,5pDsLciWKVoFt2bUBTLp4n,XLR8,24kY0bUku58QhWv5WFFXaf,REAPER,224137,False,41,album,1UXLEXcUYHLNouwidskiMa,DISRUPTOR LP,2022-05-06
+2024-08-27T04:37:00Z,69otoiAkG6D5JIzROH2YBq,xX_TF_CNS_SyntaxCNS_PWM_Stere0_Xx,0iChYVsdfuGmWIUuhDE4M8,Embark Studios,156000,False,32,album,1xqJgZWKnZJTjigMQvgT87,THE_FINALS_CNS.lha,2024-03-14
+2024-08-27T04:07:04Z,0sYddq4nT7BAF4OHvlRUV1,ARCHETYPE,2f9PTWJfMMDTAFZcvHy1Z5,OVERWERK,233079,False,31,single,3WxfA4dXJsSsuQCoQh9m0J,ARCHETYPE,2024-06-12
+2024-08-27T03:56:59Z,0iaUEo9UHQp2d89SCaSZwE,Cut Ya Loose,0U6MHJ9KRB5A1M7iHN06sS,Emi Grace,147157,False,30,single,7iSoK8IQStvcfQpvvzEfoo,Cut Ya Loose,2024-01-26
+2024-08-27T03:25:10Z,0XNJwK6IhwfqvsNEZ2Q6q8,Light up the Night,5sM4cZ9MHihs0tbmkiE9n8,Jamie Berry,233879,False,40,album,5GaoXt4qjX5tgjq8QbwbXf,Light up the Night,2019-10-11
+2024-08-27T03:12:21Z,2dNil0SUXU5iXhG5hxSiCa,Yuma,1Pu6QNtLLwGDTbOKg4Sdij,Neon Beach,122818,False,28,album,2pRFhfdxzQYuj1ZtMaX4jU,Ice Waves,2023-04-21
+2024-08-27T03:08:15Z,5w2CJIpyAqUbAXCdR9lgmT,THE FILLER,1sFuaHWt29kquc8Apiglfb,Thundersmack,130399,False,30,single,3rhvGb7UsiIau9WCyZEaGV,GET UP,2022-08-19
+2024-08-27T02:58:35Z,5SWtlI0bqFnkndV19v8qac,W.I.F.I (Upper),7K9fyLw4RPBp8PIFkif2eB,Wildermiss,146497,False,28,single,0P5ICNvUB8Vdv2TO0YWu4B,New Year's EP (Uppers),2023-06-23
+2024-08-24T00:53:12Z,2mPHtcthcv8LjUnCJfzEJi,Man and Beast,7qh7VUg1GOWzb1DklOkwBd,Thomas Vent,176000,True,23,single,6Y1OwKtjJ3XJThuD6OEcpw,Man And Beast,2024-01-26
+2024-08-23T23:57:13Z,0gr1C18RQdhFJr1xCJt0gB,Father - Bass Version,2mW9rNrxyKxGj4GC53hVAH,The Cave,158257,False,26,single,2fdspdfnxGtEk9sh3BAp3T,Father - Bass Version,2023-07-14
+2024-08-23T23:51:06Z,7cdUm2rJjkmyDbggSWhFOY,One Steady Roll,2c2wuveILva0R8OYac7lwc,Pisk,173386,False,31,album,15EmMF64PpspLd9O0KVVMu,Electro Swing New Generation 01 by Bart&Baker: The Best New Electro Swing Music,2017-09-01
+2024-08-23T23:46:18Z,2Oidi4pAbR9X81PBaV71N8,One Night/All Night,1gR0gsQYfi6joyO1dlp76N,Justice,276066,False,57,album,6ooBxhsOVedpX4zPTCyL86,Hyperdrama,2024-04-26
+2024-08-16T22:48:01Z,1Wi1XpdZzGVIdRTzlTrIEF,Soup,0NB5HROxc8dDBXpkIi1v3d,Remi Wolf,213116,False,62,album,7HQOEMCDGKY8eJyQPdsnYH,Big Ideas,2024-07-12
+2024-08-15T22:42:16Z,0mrawlgSrnmAoGxc8uG1mI,Blink Twice,0nZHjqvdLoBy50ZzUH5FNU,Cecile Believe,182357,False,38,single,2nm47sRDJ27ZxOnMk27GP1,Blink Twice,2024-06-24
+2024-08-15T22:27:08Z,3wknLKMR6bR5zoDIyKNO68,Miracle - REAPER Remix,6iPbI11utXY9CVhX6SPXEg,Nitepunk,204827,False,29,single,3OLg6ht1U2rZSkeGsRbWjy,Miracle (REAPER Remix),2021-05-14
+2024-08-15T22:21:08Z,3FBwxitVZMIu6cOJHujOwR,Die A God,0o9qzOHuHkGZ3xMFKpMFkC,Black Tiger Sex Machine,218142,False,39,single,1PV9mX6O0HubbwVgiab2Mn,Die A God,2023-02-10
+2024-08-15T22:19:14Z,6g33QcT5vwAXaNuusYd0fH,INTERCEPT (INTRO),24kY0bUku58QhWv5WFFXaf,REAPER,113793,False,13,album,1UXLEXcUYHLNouwidskiMa,DISRUPTOR LP,2022-05-06
+2024-08-15T22:10:09Z,7xw7mr7uGZigio3rG8awXf,Carry The Flame,3cMInYqk6yzf37zo8iznoz,DNMO,208275,False,31,single,53Gw151aktaGntZnVV6kFM,Carry The Flame,2023-03-14
+2024-08-15T22:07:57Z,6b6HudhUkFIvlDjyuhiEBE,Slow It Down,3EXfNuPuR3OFEdlyoSutcG,Sikdope,188800,True,26,single,3GZ3vwr111BXf705k8FV4f,Slow It Down,2020-03-25
+2024-08-15T22:01:43Z,1Ipo7AQ2vWCoCjkSTxGEMX,Front Man,0o9qzOHuHkGZ3xMFKpMFkC,Black Tiger Sex Machine,248333,False,26,single,1TOcjhSqr0yJISowqjr7CV,Front Man,2022-01-21
+2024-08-15T20:57:24Z,35S2uxTzrmVpsTVbWiUfKO,Shouldn't,5CMaNobmJYgXcfiT0zYOwi,WHIPPED CREAM,170142,False,26,single,4lLJnQBebJOgESS8OjSPMw,Shouldn't,2019-12-05
+2024-08-15T04:26:13Z,7cjfFTLNyZZPazTH50rZYQ,Get Down 'Til We Die,2lUIueNhIGX0lsDGCxAgGz,Alphascan,160500,False,23,single,2p1N7V5TtZARPqi17RuSGT,Get Down 'Til We Die,2021-01-29
+2024-08-15T04:21:41Z,4bek6esXigPCDruujINYrk,Sahara - Original Mix,4pmFSHWmuZmlwKvRlhyGB7,Lumin8,115840,False,20,compilation,2fUl1dd4EuuxBVCeRxzPeF,Hardcore Addiction 2,2014-08-04
+2024-08-15T00:01:04Z,2oRI8zuNHwxQ7DciPxLCLE,Tempest,4tpDw1W5WG1Tf7puULUur5,Gold Geisha,161503,False,31,single,5rr2RMYhaQdXI3SXnYRMrH,Tempest,2023-08-04
+2024-08-14T23:57:57Z,7Kw4WVktg9vCA0jCwF8GSs,Psycho Soul,1gbDc1TANALgP8lLvO5UEf,AHEE,156800,False,28,single,5szhLnbOSTa1smLxGjrJJN,Alien Alchemy,2022-11-11
+2024-08-14T22:45:44Z,6OMRtjG8fIwwgd4qsJd4RO,Health,6TFOalvhHRXh8JmQTVSoyY,Pedestrian Tactics,200217,False,21,single,6eS3KP5q5Py1loLLoURBWm,Health,2024-03-01
+2024-08-14T22:36:25Z,7rAy4xgfzXbzZX5oXjB6ad,Fat Eric,1OsqAzBh0YCmsISYLgIOqa,Haezer,150743,False,23,album,3dQLnXlXMYyzuUBI4P9htx,Exit,2021-05-07
+2024-08-14T22:01:34Z,6DDppuqVuLPrmkHUzRzFoN,demolition,44RV4NtG7667JQNtX6iDZc,LŪN,228371,True,15,single,2xPf3BN6XWEkYFRsd7V6a8,haha i like it,2021-04-09
+2024-08-14T21:55:53Z,6j3NhzkHuosjOqRfH4ge8W,girl brain,44RV4NtG7667JQNtX6iDZc,LŪN,270000,False,12,single,2xPf3BN6XWEkYFRsd7V6a8,haha i like it,2021-04-09
+2024-08-14T21:30:54Z,2MVBwNqgEPtU6TsniclgIW,us at the boat,44RV4NtG7667JQNtX6iDZc,LŪN,210833,True,18,single,2xPf3BN6XWEkYFRsd7V6a8,haha i like it,2021-04-09
+2024-08-13T19:42:13Z,1sOfNRe7zyQkJj0cY6z2k8,Tell It To My Heart,0xRXCcSX89eobfrshSVdyu,MEDUZA,165524,False,55,album,1ipPj2xEiVWibPm6V1LqEc,MEDUZA,2023-10-13
+2024-08-13T19:36:08Z,6wLqNGHQIja6xqT0cfrzBB,On & On,0SfsnGyD8FpIN4U4WCkBZ5,Armin van Buuren,170578,False,63,album,2uqVgoe1PcKmwx3ihlbevM,Feel Again,2023-03-30
+2024-08-13T18:02:49Z,2aQpISWUBToaF84DDiTeRV,Be My Lover (feat. La Bouche) - 2023 Mix,5GYaRwCWwhU6SIQrQ5G3b7,Hypaton,169523,False,70,single,6mJvtzhMas59tyCFS3kSHX,Be My Lover (feat. La Bouche) [2023 Mix],2023-04-21
+2024-08-10T01:34:06Z,7tNUNRjg5Q5JaGg5Q0zK0o,thicc,3M3wTTCDwicRubwMyHyEDy,Shygirl,222682,True,35,single,1ojjeSCH0gg7T5StxFJx7g,Club Shy (extended),2024-03-01
+2024-08-10T00:56:11Z,3WOhcATHxK2SLNeP5W3v1v,Guess featuring billie eilish,25uiPmTg16RbhZWAqwLBy5,Charli xcx,143330,False,77,single,3ThlxfLSy4bfKzxWqmC7VN,Guess featuring billie eilish,2024-08-01
+2024-08-10T00:53:20Z,0ReQoVdisBV5sBVWQKbcq3,SWEAT IT OUT (TEQUILA Remix),1AHswQqsDNmu1xaE8KpBne,COBRAH,153706,True,37,single,6pbWoujpcmXhbyn2HU2UET,SUCCUBUS XXXTENDED,2024-07-26
+2024-08-10T00:47:11Z,0whmIaItqkT8e5PVuPyhvT,Perfect (Exceeder),307erl4VjT1dZDMYpneZqd,Mason,161271,False,63,single,2KvtNjXWp2eq4oSUvf882U,Perfect (Exceeder),2007-01-11
+2024-08-10T00:45:17Z,6BUc9DJ6nxTpgFwWLAODyl,tell me,3M3wTTCDwicRubwMyHyEDy,Shygirl,163532,False,32,single,1ojjeSCH0gg7T5StxFJx7g,Club Shy (extended),2024-03-01
+2024-08-10T00:39:07Z,78QfJ1zk7Tae5gTOHFI6I2,BIG UP,0Z4Ir8usNVcAdCSQl0fQki,INJI,160748,False,40,single,0iTK7j6vohHdBI7DwdUf1d,BIG UP,2024-04-26
+2024-08-09T01:21:52Z,2sYRuFa5N6FJJcO7vE67XD,Timewarp - Dimension Remix,0QaSiI5TLA4N7mcsdxShDO,Sub Focus,226613,False,34,single,6C2opeRcMLYRgYX0dRgz8s,Timewarp (Dimension Remix),2021-07-02
+2024-08-09T00:52:35Z,4lI38Kj91ahnFG48FwVSrS,Alarm (feat. MC ID),0QaSiI5TLA4N7mcsdxShDO,Sub Focus,187240,False,46,album,6N2cAL092Va3dLV4wKWd6Y,Evolve,2023-05-12
+2024-08-08T21:52:23Z,4bvZRlHlgBt5fgYbEqtlj0,Waiting - VIP,0QaSiI5TLA4N7mcsdxShDO,Sub Focus,253795,False,42,single,06jgxM51n1uKPRnV0pFHBm,Waiting (VIP),2023-09-15
+2024-08-08T21:48:03Z,4z78eVQBoMHg1e4XGp4rMj,Do It To It - Sub Focus Remix,4pnp4w9g30yLfVIAFnZMRd,ACRAZE,194482,False,42,single,2nHx69FlthuA68GBIjjXuP,Do It To It (Sub Focus Remix),2022-04-01
+2024-08-08T19:38:10Z,4CfcXnwLf2MUfnjCnqUMvj,Go Back (feat. Julia Church),7kNqXtgeIwFtelmRjWv205,John Summit,220538,False,64,album,2pHm3ZP2R3phzCYi7ilGN2,Comfort In Chaos,2024-07-12
+2024-08-08T19:38:05Z,7DCdoJx9mCpdxcyk5CtbBM,Ready To Fly,0QaSiI5TLA4N7mcsdxShDO,Sub Focus,205480,False,56,album,6N2cAL092Va3dLV4wKWd6Y,Evolve,2023-05-12
+2024-08-08T00:26:18Z,0lQwmmmtAV6Mq5GJ8RWZVu,Raccoons,37J1PlAkhRK7yrZUtqaUpQ,Caravan Palace,207678,False,32,album,4li43Kruh0Mrh0SGsIipvU,Gangbusters Melody Club,2024-03-01
+2024-08-07T23:56:51Z,1hpIyMGeZFA2aFt28oOApc,April,37J1PlAkhRK7yrZUtqaUpQ,Caravan Palace,223946,False,31,album,3YtyKfYxHzyzYhw4yoQ6Hw,Chronologic,2019-08-30
+2024-08-07T23:55:35Z,3w5zgrLw6ktk0dxirvo0j5,Ghosts,37J1PlAkhRK7yrZUtqaUpQ,Caravan Palace,88626,False,23,album,3YtyKfYxHzyzYhw4yoQ6Hw,Chronologic,2019-08-30
+2024-08-07T20:20:27Z,78a91L74IHZVQNyh3wgE3d,Hallelujah,3NJ94iuAmmMjbszODYT6pO,Subtronics,189428,False,48,single,1acUnqBZF7dYFpnPyrtFrd,Hallelujah,2024-07-26
+2024-08-07T18:50:11Z,7eTsUmK19laiJ3uaXqLU2I,The Carousel,2gUtWSZwLhDitFVAezHsfv,Best Frenz,159720,False,31,album,5h7BayM1hxhcxfDUC7d85U,The Mall,2023-08-11
+2024-08-07T18:40:11Z,02XnnnUI8kv6qulrPLLI8j,Do Something,0U6MHJ9KRB5A1M7iHN06sS,Emi Grace,127202,True,31,single,63SUPbQCygEVUgWpZ04h8K,Do Something,2023-10-12
+2024-08-07T17:27:46Z,3NKLPcvDM0pefpLNcmui2W,Tidal Wave,0QaSiI5TLA4N7mcsdxShDO,Sub Focus,228826,False,51,album,5VDg2zP4jsc8Ufj1dPEA3d,Torus,2013-01-01
+2024-08-07T17:27:30Z,0bqnisRuU2P52pXp3vXWol,Wildfire,0QaSiI5TLA4N7mcsdxShDO,Sub Focus,215172,False,60,single,5G64NG1cJVftgUuEk7ox0n,Wildfire,2024-07-30
+2024-08-07T17:27:18Z,1hJN8hZvzEvOvqX32jSSrw,where's my head at _,4YrKBkKSVeqDamzBPWVnSJ,Basement Jaxx,152822,False,57,single,4djI7R2an73EEcJ7eJFX60,where's my head at _,2023-11-14
+2024-08-07T16:39:13Z,3bgaDjKLaicRMFD3Vmw3wv,Love Bites (Feat. Tove Lo & SG Lewis),2jw70GZXlAI8QzWeY2bgRc,Nelly Furtado,167559,True,47,single,3ZOz5WED7SNRykujcrvXUZ,Love Bites (Feat. Tove Lo & SG Lewis),2024-05-22
+2024-08-07T03:24:13Z,5RtY7Fj0ff79Mu9ldzSWr7,Miami 82 - Vocal Radio Edit,6i1GVNJCyyssRwXmnaeEFH,Syn Cole,216562,False,24,single,5j0AfO3ytejtlH5a9OuaqD,Miami 82,2013-12-09
+2024-08-07T01:07:32Z,3KtqBwqDbjxjXmJQ2gmtzW,Young & Foolish,6t1gpxYbY8OlLA7D2RiikQ,Loud Luxury,156093,False,47,single,3t7ewN9SVxMCeXTZBvJoNR,Young & Foolish,2023-12-08
+2024-08-06T00:25:09Z,3C5CcBXFEldHfgwDe62zWI,Black Rainbows,2FRXiAz5Uz78LLLSwEUhLt,Miracle Musical,149948,False,46,album,1CbtBQqibzdxhmpiLD7vzN,Hawaii: Part II,2012-12-12
+2024-08-06T00:19:14Z,2Y808U6qanXAMnN8jovGC1,Supersonics,37J1PlAkhRK7yrZUtqaUpQ,Caravan Palace,201331,False,33,album,3YtyKfYxHzyzYhw4yoQ6Hw,Chronologic,2019-08-30
+2024-08-05T05:06:11Z,2l7SUycMgoTUwJq0JqMe1s,All I Want,0NGAZxHanS9e0iNHpR8f2W,Alok,159074,False,49,single,1m5DVxuqKJlnn3f40FmSuf,All I Want,2016-09-21
+2024-08-05T05:04:13Z,5XFktAerFHxM4tp7EhzTrh,Lost,5pkU7zjIzHgfN1n91e51r3,RSCL,153182,False,67,single,1QaaHgza1m23gXfowZ8ZHS,Lost,2022-11-04
+2024-08-04T21:28:22Z,4Dn6RkeVx5k7viYJvvdjUR,Prophet,0xLqXvK6horF4enARe8AIN,REPAIR,204137,False,19,single,1BmcqneycsghGd7uyg8bfN,Prophet,2023-03-28
+2024-08-04T21:23:31Z,3Q0TwpRJ58WqFpcqeQL8hy,I Need You Now,7ouMAiAAuirToqAJPbAHic,Despersion,245581,False,9,single,7uiOeKz4thbMdzcWXM8L6l,Warhead,2020-06-15
+2024-08-04T21:21:02Z,7aflEmNkxuLJkYsh7oyKeX,KickBack - Mixed,2DMR0VFWntdZshiYE3fg5x,Skrimor,89681,False,19,album,0zqizcoNuJuQklTvgMxAv6,Neuropunk Records Showcase by Bes vol 3 (DJ Mix),2023-10-25
+2024-08-03T23:19:01Z,3JzAXop6tDRiuM4gzW0iOC,sirens r kinda scary,0rqxWmKkGWxafTgINwGiLN,schnozz,113205,True,3,album,5uSNXcEwQgNSwH0OyHR0os,berdlycore chapter 1,2021-12-27
+2024-08-03T21:50:09Z,1uvCbCFeAvYnZbx5LcBVsv,symphony no.5 in bass minor,44RV4NtG7667JQNtX6iDZc,LŪN,178235,False,37,single,1NGql2rFlIPyIdRqFrEa0P,symphony no.5 in bass minor,2024-02-23
+2024-08-02T20:40:09Z,42MVIbH8L4mMyFmkNkeLx2,[$(100)$],6UYPBxrNXIOeWUXy04RS6E,psiangel,90790,False,32,album,70RR3zlkwXUN4n8jqve2Vj,PSIANGEL COLLECTION,2021-07-07
+2024-08-02T20:17:17Z,7rL7z9CpB2aXEfmY5AA6VP,Untouchable,7AyJCgJxhAVyEsVzLxc4PW,Golemm,130067,False,41,album,0bWLoTogeRGPwAHzVFBPm6,Hazardous Bubble Basics,2021-11-02
+2024-08-01T19:10:12Z,0Z3Y5cWOPaXIBI08KKDVTO,Red Alert - Jaxx Radio Mix,4YrKBkKSVeqDamzBPWVnSJ,Basement Jaxx,218026,False,51,single,60O0wPhfgkZGGKTJho6bHS,Red Alert,1999-04-19
+2024-08-01T03:58:28Z,1wb6Q8C37X3rJHSrgYCdOv,I Hate You In The Morning,6UMUvqiDBEJLyx2uYplGCV,Otha,134720,True,44,single,5uz2vIWV9OWEP72WPQOTPX,I Hate You In The Morning,2024-04-03
+2024-07-28T17:51:46Z,5xlL7u88s2y09tzMU0569W,You Shall See,0o9qzOHuHkGZ3xMFKpMFkC,Black Tiger Sex Machine,170785,False,29,single,2FnHDIAo8IC4CtQaCZOcHp,You Shall See,2024-07-12
+2024-07-27T18:29:29Z,6rSWMhvEteKiZJOuZvaXJa,Stereo Brazil - Super Slowed + Reverb,65QutuQpxHWP7ethIbyakw,blueberry,187077,False,1,single,5ArNENMBWQAZjkirVQoX9M,Stereo Brazil (Versions),2024-07-05
+2024-07-27T18:10:13Z,2tdkpdOhUP3RnVS2Snl7b4,NMF,72iCiKwu6nu6Qq9emIwzYv,Kayzo,211070,True,39,single,2PN4QOzldg4guJ6B5RqbhL,NMF,2024-07-12
+2024-07-27T18:05:03Z,5mKUTDpG2VN3eJEcHJk9hR,Woof Woof! (Sped Up),2yUIXqi0JhBahtTc1tpnjg,GERXMVP,80571,False,2,album,7pIj969h7vaIMIEKE0FDSq,Woof Woof!,2024-02-23
+2024-07-27T17:52:43Z,5U0uFS6xvx7UCskac6yUF0,JUMP OUT,5FKchcZpQOkqFvXBj1aCvb,Excision,145714,False,41,single,6mpYRkvCqbmNkmYlEBOMhQ,JUMP OUT,2024-07-19
+2024-07-27T17:49:03Z,54Oo4KrJh4FpxlWsYzIdYH,what a feeling,6GVd3327JY65jGWX4X3wHS,gladde paling,85333,False,11,single,3rqcsfXhlfI5W5S9UEePoS,what a feeling,2024-07-26
+2024-07-25T20:47:16Z,6xrtNg5Omy2YywqCcklrlV,lagtrain dnb,4Hdu6WV1G7zlNAs22Uv9Qn,jorj1357,166471,False,24,album,66AdrGnskEhnlYJMTNooJv,assorted sounds 11,2023-04-02
+2024-07-21T16:26:59Z,69BiyGAOsD4OyeFTxi5caG,Bliss,7AyJCgJxhAVyEsVzLxc4PW,Golemm,110774,False,35,album,0bWLoTogeRGPwAHzVFBPm6,Hazardous Bubble Basics,2021-11-02
+2024-07-21T16:22:39Z,7cYocHxBR9rH0tr3nJj6VZ,flamingo,6uQKiJZQe4rjkMF0HxIGTl,dashie,135522,False,20,single,56oS6Xlz8zGeZSLyp7XIGv,flamingo,2021-12-16
+2024-07-18T23:15:01Z,3NQinJIWliMnzomwtQzVNR,EDGE - Blanke Remix,4aKdmOXdUKX07HVd3sGgzw,Rezz,165600,False,33,single,6NIM6v3gwobJAy7IY5jNJA,EDGE (The Remixes),2024-06-21
+2024-07-18T17:29:43Z,6i8MbzVn4nzyjUcSoVcz7B,Armageddon,6YVMFz59CuY7ngCxTxjpxE,aespa,196466,False,19,album,058hCti9Bupb5CJc6bd3VB,Armageddon - The 1st Album,2024-05-27
+2024-07-17T21:39:54Z,0PASf2i4mNjGfVeC5oVvBh,Peace - Mixed,7ouMAiAAuirToqAJPbAHic,Despersion,132419,False,24,album,3A6qF82iUqOfqQMTNdsU6h,Neuropunk Records Showcase by Bes vol 1 (DJ Mix),2021-11-30
+2024-07-17T05:13:48Z,4SAz5rfi1ELWWE8VHvzTFQ,Is your online persona an untamed unfiltered version of yourself?,2eKOBeqPB9R7yrt5X7P8ZR,Pisca,212437,False,37,album,1i9gXvksx2xLRb2XVYMUPl,Easy Revenge,2020-10-31
+2024-07-17T05:10:11Z,3zNfgHO44DUjGh14LCk2he,guoba113一直啊付啊Escape Containment,2eKOBeqPB9R7yrt5X7P8ZR,Pisca,96544,False,0,single,5RylDhGoHZgJDmi8NUPWn1,guoba113一直啊付啊Escape Containment,2023-04-14
+2024-07-17T05:01:57Z,3uLQyOdPsKtV4UhOx3KakS,schnuffelcore,6uQKiJZQe4rjkMF0HxIGTl,dashie,126997,True,15,album,2REpVp9t88ixjq3KfPEqoA,throwaways,2022-10-27
+2024-07-17T05:00:01Z,7jkzOnhoveVGnV4slgheK8,Real,0oW1MvkRqSSIUKuaYaMjCf,hypersexuality,95341,False,0,single,7BU78WzaExVk9bEQwgNkA7,Real,2023-06-16
+2024-07-17T04:52:12Z,4zqgHGxYKoVxhIdYQ56wfA,k1tyh0u5_:3,41pq9H8tWm2Rf4bQZobhNh,User-177606669,87000,False,20,single,3Jopozmq6BaCo0XT7Nf2Vi,k1tyh0u5_:3,2023-12-01
+2024-07-16T23:29:20Z,6QGIKvF1GAMWjYhBJA3rIy,DEATH OF A MAGICAL GIRL,2u1t6lwbVmnDTHScwFDOuF,sm3rki,170906,False,34,single,7yOfuVCWf3d4YdRLR8LvsS,DEATH OF A MAGICAL GIRL,2024-02-14
+2024-07-16T23:26:23Z,17bUMnYx4AgEkBwPx0H6gr,TRANS RIOT MUSIC,7wMpo9UvGYjLW5BMKiQ958,FREE.99,168000,True,26,single,6Trf1k0mdzF7Qw7xCYKbuv,OUT FOR BLOOD,2022-07-17
+2024-07-16T23:19:54Z,1yEt22HioYAledghVY5jWr,⋡ cybersex2008,4h2w55mRM0SkL9c0fu3qAC,lexycat,128884,True,13,album,2KT5rN4TpcRToV6to5xE1X,flowerfield,2023-06-08
+2024-07-16T23:17:36Z,2sVjF25Z4JTJxi9BXm5GtJ,ACT RIGHT,53e9n1LucuH3guikmtv180,femtanyl,144000,True,48,single,4GHFjmhUZkJfE6kuIJWQuk,ACT RIGHT,2023-07-10
+2024-07-16T23:11:30Z,4CBAlOOU9b6LdvyAAcMwIN,DEVILGIRL,7wMpo9UvGYjLW5BMKiQ958,FREE.99,105000,True,29,single,7bV8UQIe6Qt45d1KzTKfxd,TRAUMA REDUCTION PRAYER,2023-02-03
+2024-07-16T23:07:30Z,1Y0ordHLmgfKh0Dl8He6lO,astrid (breakcore),4Hdu6WV1G7zlNAs22Uv9Qn,jorj1357,87197,False,22,album,5AU6b7bCsdgWYSgiZ5uIiO,assorted sounds 10,2023-01-05
+2024-07-16T23:00:50Z,2Lu8Hv6cR9OyurFHj9dc5v,TRIPLE JUMP,2u1t6lwbVmnDTHScwFDOuF,sm3rki,171700,False,27,single,4CvZNJ5EK3uKADcLtq7j8q,TRIPLE JUMP,2023-10-22
+2024-07-16T22:46:45Z,23qD1mGpLgraWUqJ9785Ti,K1LL SOMEBODY,77JLoURVdxC8jnr3DPY05x,Tanger,136267,False,46,single,2cgFYHyL5tl3C2VhNvlKG7,K1LL SOMEBODY,2024-05-11
+2024-07-16T22:42:54Z,5uF354ZE52JzImKcsBrPCj,Kawaii Controller,25gSGW8P5WC9C3vTSOYS0h,Emray,174338,False,4,album,0qxOS7nfKKG07GPsn50A1c,Nosleep MKIV,2022-03-12
+2024-07-16T22:41:34Z,4YVnj9xSkdvJlL4AIeKI2c,stop remixing homeswitcher,4Hdu6WV1G7zlNAs22Uv9Qn,jorj1357,98719,False,15,album,66AdrGnskEhnlYJMTNooJv,assorted sounds 11,2023-04-02
+2024-07-16T22:36:14Z,5uMqAjMDuOvz49JYNG8m8a,"LOVESICK, CANNIBAL!",53e9n1LucuH3guikmtv180,femtanyl,116825,True,52,single,5S3m1mjGMYFFQrOvFl7Fng,"LOVESICK, CANNIBAL!",2023-10-06
+2024-07-16T22:32:33Z,09PIddXppSyDgH2ZmFLM4T,whats in the trunk,6uQKiJZQe4rjkMF0HxIGTl,dashie,83306,False,20,album,2REpVp9t88ixjq3KfPEqoA,throwaways,2022-10-27
+2024-07-16T22:31:14Z,5YGCBEMw5M687kDntOnVYX,BOGOS BINTED,5sfvNysQqGIyLAyd2CxHnO,Ida Deerz,173268,True,26,album,2MH0snsDzFgboLpkp3eKyI,idaidaida,2022-06-03
+2024-07-14T19:27:18Z,1sJnsf4agYojPd2uCQWYmo,Sleeptalking,1kwGj7uDO5WXVXtQLvGJr0,Just A Gent,223000,False,29,album,1Hv4crdSeL4Zd2jVdV7dJG,Planet Oasis,2022-04-21
+2024-07-12T00:33:58Z,5HogDGmbDORTiOz83dfyXy,BLOODSPORT,3jPeL7fPXnzw5sx6SBjK59,ANTAGONÏZER,200832,True,24,single,3Vteh3ETVhBIoYvnEe4Wrl,OMNIVIOLENCE,2023-10-25
+2024-07-12T00:33:57Z,3H4Cu07RHqh83HigtRDYkr,BOW DOWN,3jPeL7fPXnzw5sx6SBjK59,ANTAGONÏZER,176000,True,27,single,49gv3myZESG0ufbuomnEyy,BOW DOWN,2023-09-15
+2024-07-11T23:06:03Z,4E0mpOHLA7Rzky3FUo246M,R!OT,6x4fWXlFHJhySjhtO7cBIh,Peach Riot,153000,False,27,single,3m9JjM1JPZYkwLPGX821IM,R!OT,2024-01-09
+2024-07-09T01:49:39Z,0DPenz1hSSH4O8PXyEaggl,Attitude,1hkRfKGoJisJDbo6eSf1pg,Lewis OfMan,185120,False,38,single,6LlcxelpSrOsBLPNj8IFGx,Attitude,2020-02-19
+2024-07-06T05:36:51Z,43girkLVD5WYKCBMOphHhd,Bounce,0o9qzOHuHkGZ3xMFKpMFkC,Black Tiger Sex Machine,182665,False,31,album,4os1LiFckLA5tv0RuD4Mjj,Portals,2023-10-27
+2024-07-04T19:27:53Z,6CgbSUUwliECvA7zbWzvNb,Fading Interlude 1,0oad1RRAiN1UpaOWbIB0EW,Saint Punk,64837,False,22,album,5KhjG8zlztHfeyn4NI8bly,Ouroboros,2021-09-24
+2024-07-03T15:26:14Z,5WesZOkeAlWuxNRvS64SOr,Infortunii,4z7OnrBHTHdfpjNKl7NGox,Caster,222400,False,16,single,6IoL8qCD3mZodqlyEMYkqO,Infortunii,2023-10-09
+2024-06-30T03:22:10Z,0CEOovW78MDiiSRYy2u15a,GEK,7oQmaTdhm1tysF3i4gJwog,Ricky West,174971,False,6,single,5NLpeFjm4JaITrPe4v5zhi,GEK,2022-04-14
+2024-06-30T03:19:26Z,7Et4IAXXFpLaJMf4mSWE18,Rave Control,2yJbiseBZFvrCK5GueLnk7,Tsuki,160460,False,24,single,3w6uYN4OuJ09JLp0Hwjo9v,Rave Control,2023-06-02
+2024-06-30T03:12:07Z,4HGgR2NBzIyrdOdvnA39n0,U SHOULD KNOW,4aBx7mA6lUOVhEsjokZrXb,MUST DIE!,231000,False,16,album,00JpfFQBKodNn1eQoND8Ed,FERAL FANTASY,2022-11-04
+2024-06-29T18:45:36Z,6cx36EDQVLPcmIqicRFFXW,BETTER OFF,4aBx7mA6lUOVhEsjokZrXb,MUST DIE!,196500,True,14,single,6vg5S2entTryFjvJhCq4Kv,VAMPIRE WEAPON: CRIMSON,2023-09-29
+2024-06-29T18:39:43Z,5qp1q1uALzsBd6heCfXsdS,OLD SCHOOL,20kaxHgwoxhckhw90pyRbb,LINK,179195,True,6,single,5rYvI9v1JmiQVeOBe1W4jH,OLD SCHOOL,2023-09-01
+2024-06-29T18:33:58Z,5VVQFkUixspcTsNkW9X3v6,WARNING,24kY0bUku58QhWv5WFFXaf,REAPER,193103,False,29,single,2TTNyWrwWrmKgYzOkGpFO4,WARNING,2022-02-25
+2024-06-29T17:27:31Z,7MU9U0KWvFi0z8m5omMvzE,Break Your Neck - Mixed - S9 Remix,5pmZvFg53Aw2Ajs5Vfhyyb,Maniatics,68622,False,12,album,42E9hPPc3dsiGMpYNul8lN,Dj Mix: DEM,2022-09-02
+2024-06-29T17:24:05Z,4xmAFQeb2rc0MJtGp9ZTNP,Warhead - Mixed,7ouMAiAAuirToqAJPbAHic,Despersion,110339,False,23,album,3A6qF82iUqOfqQMTNdsU6h,Neuropunk Records Showcase by Bes vol 1 (DJ Mix),2021-11-30
+2024-06-29T17:22:50Z,4HQfyiBtUc0qDaifas4vwd,Tear It Down,6WMMVmuLO4jle2ebT3kBGQ,Use Caution,125648,False,8,single,2lJVzdbzpqvZ2FUOrBfM6p,Tear It Down,2022-12-15
+2024-06-28T18:34:50Z,2kjE1Znpvkl5g6BrHAN8KG,Rain Dance,4UNnRb4LN2hGtbtMfPzMhg,MUZZ,189257,False,40,single,2vePCjQ076mqwdDTYcNXYi,Rain Dance,2024-02-23
+2024-06-28T17:38:02Z,6iF5E6zMaAYu1LHlepossi,Hooked,3UCbp6D1lvILlxRJT9LnFa,Koven,166206,False,43,single,0T3jzFxbp2KhNM6zDPG9Ym,Hooked,2024-04-25
+2024-06-28T17:29:31Z,77Dn9E3WFNMzZGq7K1J6rR,Don't Stop,4UNnRb4LN2hGtbtMfPzMhg,MUZZ,176914,False,50,single,0PPTQ6w442u34twxct76hc,Don't Stop,2023-11-23
+2024-06-28T17:21:25Z,34URhzu6NVS1QiFfvkE1Q3,Lemonade,2BQWHuvxG4kMYnfghdaCIy,Fox Stevenson,192917,True,36,single,0E4HEys0ZdiGCO3hxaKvVd,Lemonade,2024-02-23
+2024-06-28T17:14:46Z,3xKfixrEbcLT2BQddFYUKZ,Burn It Up,3SfEKS85dj9v75ROsWJSiL,Bensley,158620,False,32,single,1stOiH6sD6WlzaeyhIr6Rz,Burn It Up,2023-09-07
+2024-06-28T17:11:39Z,4DVkTvbzmQKB31PciE7X2a,Laserbeam - ÆON:MODE Remix,2K9qsrYnsu1EWt7ZQkkuXb,Ray Volpe,164651,False,43,single,1kv1HLsS2E7NdJekRZI5am,Laserbeam (Remixes),2023-01-13
+2024-06-27T22:32:18Z,02GasgQz5JPjP2slW8dwrx,ASCENSION,2K9qsrYnsu1EWt7ZQkkuXb,Ray Volpe,160000,False,32,single,3KspUuYZY7CFg2BF72Tt03,VOLPETRON ASCENDS EP,2023-08-25
+2024-06-27T22:22:36Z,0Tcy9RRWvcnqepvmVcqv05,Black Out Days - Subtronics Remix,1l9d7B8W0IHy3LqWsxP2SH,Phantogram,208457,False,55,single,0Hp4HeunJ2h27zr3zVB3mr,Black Out Days (Subtronics Remix),2023-06-16
+2024-06-27T20:19:14Z,0pJj8Paj03lfETMmEHfiyd,Sunscreen!,0HIiXblDOFPXxkuI35wOMx,A Shell In The Pit,197717,False,9,album,4zDIG5pvKEEkelGVPpOMYi,Sneaky Sasquatch,2020-12-09
+2024-06-27T19:01:14Z,4CUwiZG9BQaVh7xsKs95wc,Brain Tickler,1gbDc1TANALgP8lLvO5UEf,AHEE,144134,False,47,single,2IpYWzZVOZ6BW7JM4KYEqg,Brain Tickler,2023-12-06
+2024-06-27T18:46:21Z,6ul4s7dwLMYtGOkyIfMWEW,DROP EM,2K9qsrYnsu1EWt7ZQkkuXb,Ray Volpe,238153,False,36,single,3KspUuYZY7CFg2BF72Tt03,VOLPETRON ASCENDS EP,2023-08-25
+2024-06-27T18:46:19Z,6VxPjDua9xhcUv0YL973mN,Lighthouse - Eyezic Remix,19EW4WBhl0fvZUQgi7wV5M,QUIX,137931,False,38,single,2TEY7m2fD48E1dP5mpU1gN,"IDK, Vol. 2 (Remixes)",2022-03-10
+2024-06-27T18:43:07Z,0mkkoiaO5r2jKkkVNzEXyM,Maleficent,4aKdmOXdUKX07HVd3sGgzw,Rezz,170503,False,28,album,6tQ1vjB7ZXy8sKkGEtHs1X,CAN YOU SEE ME?,2024-03-14
+2024-06-27T17:02:26Z,3CtAgFwiMPdKaX7caXldRV,Busy Girl,4NHQUGzhtTLFvgF5SZesLK,Tove Lo,142752,True,51,single,5xBJBxfQFowtJ5yq7MnXMG,HEAT,2024-06-14
+2024-06-27T16:59:04Z,460FLlsVLaDLzPTclcuOl4,Beast Mode (Knock You Out),1l2ekx5skC4gJH8djERwh1,Don Diablo,164761,False,38,single,6k5C7dt5RAZZ7oTzoF7LBc,Beast Mode (Knock You Out),2024-04-19
+2024-06-26T20:00:44Z,0DwVfCYLrVXgvejYbWwZAd,Break It Off,78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,95317,False,59,single,5q84FQfWp3Q7XnoMlzLRD3,Break It Off,2021-06-04
+2024-06-26T19:36:22Z,13DNuiQyuTDcAw6Y8thZFM,BRAND NEW BITCH,1AHswQqsDNmu1xaE8KpBne,COBRAH,196000,True,56,single,6xMnRBIpa2x3M40yVkGMBb,BRAND NEW BITCH,2022-06-22
+2024-06-26T18:05:27Z,7Dexi5Z2IowCkHrnzlWysc,claws,25uiPmTg16RbhZWAqwLBy5,Charli xcx,149390,False,55,album,3a9qH2VEsSiOZvMrjaS0Nu,how i'm feeling now,2020-05-15
+2024-06-26T17:56:11Z,2UerDbZznc07mmGMD3WfHH,it boy,41X1TR6hrK8Q2ZCpp2EqCz,bbno$,145846,True,12,single,6tl4X5mM1eOnkWr7oB5LAM,it boy,2024-05-24
+2024-06-26T17:54:38Z,3fWZObJDFUGnah8Q7ukiT4,Erotic Electronic,4QM5QCHicznALtX885CnZC,Slayyyter,143618,True,45,album,5sjBJH8HZKiBGEa4guEHcL,STARFUCKER,2023-09-22
+2024-06-26T17:51:33Z,1Ar2McJ98hNvgsHlxLTPQc,mr useless,3M3wTTCDwicRubwMyHyEDy,Shygirl,149506,False,42,single,1ojjeSCH0gg7T5StxFJx7g,Club Shy (extended),2024-03-01
+2024-06-26T17:48:54Z,0gExQivfnTQxzD85envbyy,Arintintin,2OaHYHb2XcFPvqL3VsyPzU,Rico Nasty,148525,False,43,single,18WiTeK26yzhOpIYSHDA4T,Arintintin,2024-02-28
+2024-06-26T17:47:56Z,5h68SoVFGleijCtjEja3xG,365,25uiPmTg16RbhZWAqwLBy5,Charli xcx,203618,True,73,album,2lIZef4lzdvZkiiCzvPKj7,BRAT,2024-06-07
+2024-06-26T17:41:36Z,1qKCO2Tocwg8CbepJ9uDtd,Mean girls,25uiPmTg16RbhZWAqwLBy5,Charli xcx,189410,True,62,album,2lIZef4lzdvZkiiCzvPKj7,BRAT,2024-06-07
+2024-06-26T17:37:15Z,4wTvw1dBiPXNiHTh0zzpcI,B2b,25uiPmTg16RbhZWAqwLBy5,Charli xcx,178579,False,70,album,2lIZef4lzdvZkiiCzvPKj7,BRAT,2024-06-07
+2024-06-26T17:34:36Z,19RybK6XDbAVpcdxSbZL1o,Apple,25uiPmTg16RbhZWAqwLBy5,Charli xcx,151739,False,78,album,2lIZef4lzdvZkiiCzvPKj7,BRAT,2024-06-07
+2024-06-26T17:25:36Z,5sMEEjviCkH6Rp5X2ZvIIc,Everything is romantic,25uiPmTg16RbhZWAqwLBy5,Charli xcx,203482,False,62,album,2lIZef4lzdvZkiiCzvPKj7,BRAT,2024-06-07
+2024-06-26T17:13:50Z,0CySZwyRJ0vyUqtSjM9i2k,Club classics,25uiPmTg16RbhZWAqwLBy5,Charli xcx,153526,False,67,album,2lIZef4lzdvZkiiCzvPKj7,BRAT,2024-06-07
+2024-06-26T17:11:08Z,0dlP9SnqQa5k1A9mReybFb,Treat Me Like A Slut,3Xt3RrJMFv5SZkCfUE8C1J,Kim Petras,118153,True,58,album,4rs52z8T5zPbsa5HM75tua,Slut Pop,2022-02-11
+2024-06-26T17:02:11Z,0FqkI0vR3Z28v6GSudbKXj,Perfectly Not Close To Me (ft. Yves Tumor),3rWZHrfrsPBxVy692yAIxF,WILLOW,110873,True,40,album,0oMXn0MNLNyvB4iJPZXOuV,<COPINGMECHANISM>,2022-10-07
+2024-06-26T16:57:45Z,3BI3yIp1aa5yzMNpyTmNyX,Smokescreen,2eMb96S1ZJ1YQ7FhWAzWJL,Pearly Drops,178105,False,35,album,2T0LDUVshmydIaKywFCDKX,Call For Help,2020-11-20
+2024-06-26T16:54:33Z,3l5qctI4FqhfjIZzs06cbk,Call For Help,2eMb96S1ZJ1YQ7FhWAzWJL,Pearly Drops,198967,False,49,album,2T0LDUVshmydIaKywFCDKX,Call For Help,2020-11-20
+2024-06-25T21:26:54Z,3qVKpxXVcYN1QaE79iNrHI,I Go Dance,4zxvC7CRGvggq9EWXOpwAo,Kiesza,176473,False,11,single,6uWuAum9VpqxPx84PgvCsY,Dancing and Crying: Vol. 1,2024-05-24
+2024-06-25T21:01:57Z,2IEc4MXTHwkF4H0rflslCA,Changa,6n28c9qs9hNGriNa72b26u,PNAU,205022,False,34,album,7DrBomoczF4cn1kjyioHJe,Changa,2017-11-10
+2024-06-25T18:11:40Z,0uMZbmAAgOhdMrv25iPEH6,Goth,48nHO1cuTbpx4ELhChsxX1,Sidewalks and Skeletons,207120,False,70,album,0Iq6APTGuGPe875jV0rIw2,White Light,2015-03-05
+2024-06-25T04:52:41Z,5CnKkMbJpS2vNjLgH6k8w7,I Might be Fake,4GNHtO2iEJ09r4JNTlqnO9,Master Peace,168805,False,0,album,5ngf0ZhsSDE2LuQboTuKuc,How To Make A Master Peace,2024-03-01
+2024-06-25T04:49:05Z,4jps2pDhKNfnHfdFRouuUU,Rambunctious Beet,1zftPdKSYBqbdMc8BVRWsg,DaDood,179980,False,0,single,3MLfszDbL7SdQCUckOyuAT,Rambunctious Beet,2022-01-14
+2024-06-25T04:45:35Z,6v65Q32wyrmIwoqvZION13,Boadicea,307erl4VjT1dZDMYpneZqd,Mason,201844,False,20,album,2Zi8bmvSXahWMjDAP0CIbD,They Are Among Us,2011-04-03
+2024-06-24T01:30:18Z,22IGm6PYN1THrPe1jFT5u6,Confusion Spell,2u01kCKA5wDvvztuH8lyT0,SVDDEN DEATH,137142,False,39,single,5dv5ujhnP8NJdfo5ult2Ot,Confusion Spell,2020-05-18
+2024-06-19T18:12:25Z,1dDUoKaxiCxP2Mhh4ze5el,City Slicker,4UAW69682T7N0wrABUhqx0,Ginger Root,127038,False,41,single,33K5IcF2vhHvTxKVgIALWu,City Slicker,2021-08-20
+2024-06-19T18:10:23Z,5kBBVaQUEisiw5AHIGbRn4,atomic,5GlFG0lCadjEBnY1w1FwwW,Aziya,169190,False,44,single,7IYojlDZvmGIURf0qTulLd,atomic,2023-04-14
+2024-06-19T17:53:46Z,5C25UbDGoB9pgvqFlGfS9A,Bloom For Me,2eMb96S1ZJ1YQ7FhWAzWJL,Pearly Drops,147441,False,49,album,2T0LDUVshmydIaKywFCDKX,Call For Help,2020-11-20
+2024-06-19T17:53:09Z,5Xjh7Ew2mqrajmvTTZN231,Cinema,6OqhFYFJDnBBHas02HopPT,Kero Kero Bonito,126306,False,42,single,1JRe4BK6irt43VvOESllLv,TOTEP,2018-02-20
+2024-06-19T17:48:40Z,3oxjdkrul9fGW82LfkCdxg,girlfriend,52PdgUJOjvS6Mpmjy1SAlx,hemlocke springs,133150,False,45,single,6vLqlkHUKH696KzKUPiqdd,girlfriend,2022-11-02
+2024-06-19T17:26:17Z,5qM4xXjaE3XDmv86oFCRoj,Strider,7nJNuftnqwrFGFs3ZRRe0u,MEMBA,218997,False,42,single,4zMSmztYxONVci2xagxCN9,Strider,2020-08-13
+2024-06-19T05:44:26Z,4BsN2VLlvd3BBJCt7gpwkc,Iris in the Dark,1kwGj7uDO5WXVXtQLvGJr0,Just A Gent,199090,False,41,single,7C5Re5Icwayt2s9ggjHihl,URCA,2019-12-03
+2024-06-19T04:33:17Z,4ruIo0UKhZOrV5LJyu89gW,Catch Me,1fd3fmwlhrDl2U5wbbPQYN,Apashe,243867,False,43,album,6u26YQ3XrrBmHUj3g0dzhJ,Antagonist,2023-11-24
+2024-06-14T18:18:10Z,7A6FWLFQSSxKG93P2X9cIR,Youth,1XNSNWTlirqnvsXUUEVwxb,Ghost in Real Life,211034,False,25,single,5ulcVpsgXJqFg6ci9PcYAQ,Youth,2023-04-14
+2024-06-14T18:08:38Z,0pouaY7VO5WbVkR3UIPGBF,There 4 You,0LIl9fjMPEZp8UDiL8Yuo4,4B,169600,False,23,single,7u83gNZRCYlCq9ArSdt7k0,There 4 You,2021-09-10
+2024-06-12T19:36:56Z,1XKl1MlpCBnLJ0Dkfn8NDA,Oubliette,6C0QgVuIzzi3f5NGBx4qWy,Dan Terminus,158768,False,20,album,2YxXYgdGEfapaxT53CszxZ,Last Call for All Passengers,2020-09-25
+2024-06-12T17:42:47Z,4rlOSalyOrLZt4b5mmOr1R,Perpetual Motion,3hvgLXeDFNiqDOVXl0xTge,LukHash,184673,False,37,album,3SQOzfpmlBgQtT5HHmFaGD,Better Than Reality,2019-05-24
+2024-06-07T13:47:47Z,3bchNB6ktvfYPW9HTmScjK,Black Lantern,7vkhg0Rav27QjDgKgHTOSH,scntfc,162666,False,7,album,40kxhlVm4mMYRIrnMk23FP,Oxenfree: Side Stories,2016-05-11
+2024-06-06T13:48:10Z,4guPgtLZwAWLKnQQYFufCN,"The Beach, 7am",7vkhg0Rav27QjDgKgHTOSH,scntfc,297000,False,25,album,3MsVFdknU6YMOcwo21SrIK,Oxenfree,2017-03-13
+2024-06-06T13:42:04Z,5V3ZLod84oiRBOjjtDc5ma,Oceanside,7vkhg0Rav27QjDgKgHTOSH,scntfc,141935,False,2,album,2YLWX2kkgkqf1MNq0dEmG4,Old Man's Journey,2017-05-18
+2024-06-06T13:37:52Z,25CvL2BcmvnAfFvMrN7xuK,Into the Water,7vkhg0Rav27QjDgKgHTOSH,scntfc,240974,False,7,album,2YLWX2kkgkqf1MNq0dEmG4,Old Man's Journey,2017-05-18
+2024-06-03T14:55:45Z,1nwR7VN3n0cORi9wUJ6giy,Signs,1QuMvIohbPqddOqTlACR47,The Myriad,345000,False,2,single,5rJQExkybHsogn6Wi7TW3G,Signs (Single),2023-08-18
+2024-05-26T07:38:24Z,1LAlLBTGBUO0MDA8IbSysd,Overcompensate,3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,236000,False,65,album,1KFWgQTw3EMTQebaaepVBI,Clancy,2024-05-24
+2024-05-25T06:48:43Z,171Orh4W1bAcrjbJB0rJEq,Polluted Platoon Pathfinder,6EM7D8YUqKTFhM61WSEIDn,feasley,72441,False,36,album,6rGMpJpKtTSCDSXTuOqTyo,Another Crab's Treasure OST,2024-05-17
+2024-05-24T16:23:58Z,3gy21TwRSP40aUMwcY7Rtq,Navigating,3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,223106,False,65,album,1KFWgQTw3EMTQebaaepVBI,Clancy,2024-05-24
+2024-05-24T16:10:46Z,4bDIAWaOBGAAk95nyXI6zJ,Routines In The Night,3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,202600,False,68,album,1KFWgQTw3EMTQebaaepVBI,Clancy,2024-05-24
+2024-05-17T22:03:54Z,4xETJ9lwxLC76kOlYsCnR0,What Is Real?,6bWylzDlsTfR8khADRQJfd,Trevor Something,175536,False,24,single,4BJMsGUTPVSA1sd9l4TOIb,Does Not Exist EP,2014-06-17
+2024-05-17T02:00:27Z,6AlatqBSgJ0dkRB5Hak7Va,Ravestab,6Cqy862jSCV7qdNrCDqvNK,Hairitage,177193,False,11,single,2byGPU6HriaXEvGCVsSFiw,Wax Gibbons EP,2021-12-17
+2024-05-17T01:01:47Z,1slKaLV7LQffrmGPOQvBq7,CLOUD9999,57eFNkPwLhad2Sg1zxTBWL,Akira Complex,141333,False,23,single,2f9i8ha8dU1wEecYDsjlWj,CLOUD9999,2022-10-14
+2024-05-17T00:10:39Z,5lCjiWAyjWjVElyxw79TCn,Möbius,25iPl8VJFDu38JMFF6uMXI,USAO,145749,False,32,single,3oYirFegJjZ609JVXbPuXS,Möbius,2022-04-28
+2024-05-16T23:57:46Z,19lyk6pIncLT1EvkuGMuCY,Gate One,4FvSs32NRc6sS3V8ylZrzq,aran,138666,False,29,single,4raaygsto9sYxzftg7sMiH,Gate One,2019-07-18
+2024-05-16T23:53:15Z,7hwlFB4fxou2GCHOVN9LFU,DUCK GROOVE,3zYU33YUxJPzsPrYmpMMiu,Aests,142500,False,30,single,1jNl2gbTUjvaBY8aQrWjhe,SUGAR RUSH,2021-07-15
+2024-05-16T22:43:39Z,2USfvfEEmJwxKzMilhqh5n,Smoke,2Sa4c9qKaI7ILJs8D6gUCh,Ghastly,187991,False,45,album,3Up7Gze0bGUTVv3XJTqvW5,Haunted Haus,2022-04-15
+2024-05-16T22:32:14Z,4JXgJ33UmguXF3F9B5LwlD,Be Here (La La La),5CMaNobmJYgXcfiT0zYOwi,WHIPPED CREAM,140645,False,42,single,3c8WhTXdr0jNmaBxbOyxmM,Be Here (La La La),2022-10-27
+2024-05-16T20:50:52Z,707qqokrSYnzJO5FoGIvFL,Me and You,3mVwDyQRNVMy3ZNuTabf6f,Champagne Drip,226285,False,46,single,4don6p3pHlj7Pp01Js7dUb,Me and You,2020-03-06
+2024-05-16T18:08:13Z,04oBrVYURdwGA2aAwcxtrV,CAN YOU SEE ME?,4aKdmOXdUKX07HVd3sGgzw,Rezz,141538,False,41,album,6tQ1vjB7ZXy8sKkGEtHs1X,CAN YOU SEE ME?,2024-03-14
+2024-05-16T18:02:00Z,7wuR5AillDzc9PSLn9JAcy,After Dark x Sweater Weather - slowed to perfection,2XqXXH9xPa1zucIOtZ3u3A,TommyMuzzic,353750,False,35,single,7IlrjQ1oKaVflusNcq6XDm,After Dark x Sweater Weather,2024-04-07
+2024-05-15T19:16:01Z,6Gn1p6UBqBHRvIlK8rmPTp,Candy Heaven,3npM0ZkW5qRUL5Y7ihHRrU,Tenkitsune,208439,False,9,single,4CaJy3M7jYKZmuygaN6PWt,Candy Heaven,2022-05-27
+2024-05-13T22:40:37Z,2hMmPpyeH7nzXgfAoAYUQH,Sinistar,31tVXduq7FmEznjanEBQJA,Scattle,79172,False,3,album,6bjc07NWV6P18LjEqZh0ob,Imagine,2024-04-26
+2024-05-08T21:12:10Z,3WeW65sBPakO3zaCq2PByY,Open The Door (That's Not My Neighbor Song),3wXWn4QQgUFF39bpLzlzca,LongestSoloEver,207000,True,53,single,2p8eatZvRYjdlRRhGvk5EY,Open The Door (That's Not My Neighbor Song),2024-04-09
+2024-05-08T03:25:37Z,3lFNDaob5QhwE9oo7J0uNT,Pachamama,20cmhoGvN0eyzhmsHJH1Mg,Luude,145116,False,57,single,4pyp9BJdIT2rqRiavNpiWL,Pachamama,2024-03-20
+2024-05-04T03:14:21Z,6llfQrkReUEp3EVr7Tlx7W,SCORCHED EARTH,6V3nQK9DukU16erRknwTUK,RetiredOrphan,213333,False,10,single,5gq6Nlla1dOvDtcKVvDc6z,SCORCHED EARTH,2024-04-12
+2024-05-03T21:53:38Z,6qNB2ChCVPepl5ZjVJJTUW,STUPID (feat. Yung Baby Tate),3PyJHH2wyfQK3WZrk9rpmP,Ashnikko,167317,True,60,single,5eKuModdAdZRmc51241r4D,"Hi, It's Me",2019-07-12
+2024-05-03T19:26:19Z,3L4LD2dvwu8PJCScWx1OKE,HYSTERIA!,79NIVAOefeJgwo0QIIZ9t2,ZØMB,96826,False,14,single,7xv9ths1Xy0dGAwjVjN6XS,HYSTERIA!,2024-05-01
+2024-05-01T21:14:23Z,2OOCFcLq9vDnxbMvAMopi3,Never Be Lonely - Cascada Remix,4Q6nIcaBED8qUel8bBx6Cr,Jax Jones,126783,False,54,single,0CNe6GLbpxRWKXYTK8bytw,Never Be Lonely (Cascada Remix),2024-03-08
+2024-04-28T20:05:21Z,5KDZ8ZIzp3N09tnEiQKY7O,Black Star,0Z43xNK0ZhtPW2eKi1L1OP,El Tigr3,249278,False,20,album,4NBy8bsMNQHk8EspCZYRJL,The Beast Within,2018-09-25
+2024-04-28T19:41:17Z,23XDTYDLZ8CXKnnhAIoLGt,Pumpkin Head,42cxe5wNs7fE5nRbEt00Xe,Raydar,305647,False,9,album,0OctnlihEmXmKzReofQ7HY,Evil Squad II,2017-10-31
+2024-04-28T19:28:47Z,1NGTqQJs0JzojfFn09i3kO,Job For A Cowboy,1cSXroP62yDewheYORCPoj,OGRE Sound,141428,False,34,album,6rXwhbgEy5Kiss3ETnuxuC,195,2014-11-17
+2024-04-28T19:27:13Z,6hAszmxhIZrfG2Ss5RdJmZ,PinOut Theme,2PfiteGKkLREGubVMoSUE3,Douglas Holmquist,130906,False,19,album,38isr7eM1n8gUgU8VNmwL6,PinOut (Original Soundtrack),2016-10-27
+2024-04-28T19:05:02Z,3MSDAR3zUwh5u4EkBC3Ica,Full Moon,42cxe5wNs7fE5nRbEt00Xe,Raydar,267789,False,7,single,6qTunYDs6UQi9jRyzaGlYH,Evil Squad,2015-10-30
