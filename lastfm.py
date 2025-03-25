@@ -32,3 +32,13 @@ def get_lastfm_genre(artist_name):
     else:
         print({"error": f"Request failed with status code {response.status_code}"})
         return None
+
+# # na_genres_df = na_genres_df[na_genres_df['artist_name'].unique()]
+# for index, row in na_genres_df.iterrows():
+#     print(index, row['artist_name'])
+#     if row['artist_name']:
+#         genre = get_lastfm_genre(row['artist_name'])
+#         print(genre)
+#         if genre:
+#             na_genres_df.loc[index, 'genres'] = genre
+# na_genres_df.to_csv('artists_missing_genres.csv', index=False)

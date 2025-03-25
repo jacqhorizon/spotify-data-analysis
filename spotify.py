@@ -48,4 +48,4 @@ def create_csvs(sp, quantity):
                             artist['followers']['total'], genre, artist['popularity']])
 
 sp=authorize_sp()
-create_csvs(sp, 500)
+# create_csvs(sp, 500)

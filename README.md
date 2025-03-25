@@ -15,3 +15,7 @@ conda activate AD_450_final
 export CLIENT_ID="client_id"
 export CLIENT_SECRET="client_secret"
 ```
+
+Files
+
+spotify.py - gets last 500 saved tracks and their artists
