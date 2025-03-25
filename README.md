@@ -19,3 +19,5 @@ export CLIENT_SECRET="client_secret"
 Files
 
 spotify.py - gets last 500 saved tracks and their artists
+
+TO DO: Clean up script stuff
