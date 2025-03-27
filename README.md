@@ -2,6 +2,8 @@
 
 ## Files
 
+**Spotify_Analysis.pdf** - Slide deck, overview of findings
+
 **analysis.ipynb** - data cleaning and analysis, the meat and potatoes
 
 **spotify.py** - gets last 500 saved tracks and their artists from Spotify
