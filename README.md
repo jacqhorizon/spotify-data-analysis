@@ -3,10 +3,15 @@
 ## Files
 
 **analysis.ipynb** - data cleaning and analysis, the meat and potatoes
+
 **spotify.py** - gets last 500 saved tracks and their artists from Spotify
+
 **lastfm.py** - gets genre associated with artist name from Last FM
+
 **tracks.csv** - last 500 saved tracks
+
 **artists.csv** - artists for corresponding tracks
+
 **artists_missing_genres.csv** - the genres that Spotify didn't have
 
 ## Anaconda Environment
